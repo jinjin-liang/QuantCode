@@ -39,7 +39,7 @@ plt.legend(loc=4)
 plt.show()
 
 if __name__ == "__main__":
-    ytm = price_bond.calc_r(pv = 80, fv = 100, coupon = 6, T = 10, r0 = 0.05, min_err = 0.0001, max_iter = 100)
+    ytm = price_bond.calc_r(pv = 1038.01, fv = 1000, coupon = 70, T = 7, r0 = 0.05, min_err = 0.00001, max_iter = 100)
     print("ytm = %s" %ytm)
     
     pv = price_bond.calc_pv(fv = 1000, coupon = 80, T = 20, r = 0.09)

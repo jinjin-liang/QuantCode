@@ -1,0 +1,1096 @@
+20:51:07 | INFO | id  old_name                       new_name                       change
+20:51:07 | INFO | 0   .git                           keep                           false
+20:51:07 | INFO | 1   .gitattributes                 keep                           false
+20:51:07 | INFO | 2   .gitignore                     keep                           false
+20:51:07 | INFO | 3   .idea                          keep                           false
+20:51:07 | INFO | 4   1. two_sum.py                  0001. two_sum.py               true
+20:51:07 | INFO | 5   10. Regular Expression Matching.py 0010. Regular Expression Matching.py true
+20:51:07 | INFO | 6   100. isSameTree.py             0100. isSameTree.py            true
+20:51:07 | INFO | 7   1004. Max Consecutive Ones III.py keep                           false
+20:51:07 | INFO | 8   1008. Construct Binary Search Tree from Preorder Traversal.py keep                           false
+20:51:07 | INFO | 9   101. isSymmetric.py            0101. isSymmetric.py           true
+20:51:07 | INFO | 10  1011. Capacity To Ship Packages Within D Days.py keep                           false
+20:51:07 | INFO | 11  102. Binary Tree Level Order Traversal.py 0102. Binary Tree Level Order Traversal.py true
+20:51:07 | INFO | 12  1020. Number of Enclaves.py    keep                           false
+20:51:07 | INFO | 13  1023. Camelcase Matching.py    keep                           false
+20:51:07 | INFO | 14  1026. Maximum Difference Between Node and Ancestor.py keep                           false
+20:51:07 | INFO | 15  103. Binary Tree Zigzag Level Order Traversal.py 0103. Binary Tree Zigzag Level Order Traversal.py true
+20:51:07 | INFO | 16  1032. Stream of Characters.py  keep                           false
+20:51:07 | INFO | 17  1034. Coloring A Border.py     keep                           false
+20:51:07 | INFO | 18  1038. Binary Search Tree to Greater Sum Tree.py keep                           false
+20:51:07 | INFO | 19  104. maxDepth.py               0104. maxDepth.py              true
+20:51:07 | INFO | 20  1044. Longest Duplicate Substring.py keep                           false
+20:51:07 | INFO | 21  1047. Remove All Adjacent Duplicates In String.py keep                           false
+20:51:07 | INFO | 22  1048. Longest String Chain.py  keep                           false
+20:51:07 | INFO | 23  105. Construct Binary Tree from Preorder and Inorder Traversal.py 0105. Construct Binary Tree from Preorder and Inorder Traversal.py true
+20:51:07 | INFO | 24  1052. Grumpy Bookstore Owner.py keep                           false
+20:51:07 | INFO | 25  1054. Distant Barcodes.py      keep                           false
+20:51:07 | INFO | 26  1059. All Paths from Source Lead to Destination.py keep                           false
+20:51:07 | INFO | 27  106. Construct Binary Tree from Inorder and Postorder Traversal.py 0106. Construct Binary Tree from Inorder and Postorder Traversal.py true
+20:51:07 | INFO | 28  1060. Missing Element in Sorted Array.py keep                           false
+20:51:07 | INFO | 29  1061. Lexicographically Smallest Equivalent String.py keep                           false
+20:51:07 | INFO | 30  1063. Number of Valid Subarrays.py keep                           false
+20:51:07 | INFO | 31  1066. Campus Bikes II.py       keep                           false
+20:51:07 | INFO | 32  107. levelOrderBottom.py       0107. levelOrderBottom.py      true
+20:51:07 | INFO | 33  1074. Number of Submatrices That Sum to Target.py keep                           false
+20:51:07 | INFO | 34  1079. Letter Tile Possibilities.py keep                           false
+20:51:07 | INFO | 35  108. sortedArrayToBST.py       0108. sortedArrayToBST.py      true
+20:51:07 | INFO | 36  1080. Insufficient Nodes in Root to Leaf Paths.py keep                           false
+20:51:07 | INFO | 37  1086. High Five.py             keep                           false
+20:51:07 | INFO | 38  1087. Brace Expansion.py       keep                           false
+20:51:07 | INFO | 39  1088. Confusing Number II.py   keep                           false
+20:51:07 | INFO | 40  109. Convert Sorted List to Binary Search Tree.py 0109. Convert Sorted List to Binary Search Tree.py true
+20:51:07 | INFO | 41  1091. Shortest Path in Binary Matrix.py keep                           false
+20:51:07 | INFO | 42  11. ContainerWithMostWater.py  0011. ContainerWithMostWater.py true
+20:51:07 | INFO | 43  110. isBalanced.py             0110. isBalanced.py            true
+20:51:07 | INFO | 44  1100. Find K-Length Substrings With No Repeated Characters.py keep                           false
+20:51:07 | INFO | 45  1101. The Earliest Moment When Everyone Become Friends.py keep                           false
+20:51:07 | INFO | 46  1102. Path With Maximum Minimum Value.py keep                           false
+20:51:07 | INFO | 47  111. minDepth.py               0111. minDepth.py              true
+20:51:07 | INFO | 48  1110. Delete Nodes And Return Forest.py keep                           false
+20:51:07 | INFO | 49  112. hasPathSum.py             0112. hasPathSum.py            true
+20:51:07 | INFO | 50  1120. Maximum Average Subtree.py keep                           false
+20:51:07 | INFO | 51  1124. Longest Well-Performing Interval.py keep                           false
+20:51:07 | INFO | 52  1129. Shortest Path with Alternating Colors.py keep                           false
+20:51:07 | INFO | 53  113. Path Sum II.py            0113. Path Sum II.py           true
+20:51:07 | INFO | 54  1130. Minimum Cost Tree From Leaf Values.py keep                           false
+20:51:07 | INFO | 55  1134. Armstrong Number.py      keep                           false
+20:51:07 | INFO | 56  1135. Connecting Cities With Minimum Cost.py keep                           false
+20:51:07 | INFO | 57  1137. N-th Tribonacci Number.py keep                           false
+20:51:07 | INFO | 58  114. Flatten Binary Tree to Linked List.py 0114. Flatten Binary Tree to Linked List.py true
+20:51:07 | INFO | 59  1143. Longest Common Subsequence.py keep                           false
+20:51:07 | INFO | 60  1145. Binary Tree Coloring Game.py keep                           false
+20:51:07 | INFO | 61  115. Distinct Subsequences.py  0115. Distinct Subsequences.py true
+20:51:07 | INFO | 62  1151. Minimum Swaps to Group All 1's Together.py keep                           false
+20:51:07 | INFO | 63  116. Populating Next Right Pointers in Each Node.py 0116. Populating Next Right Pointers in Each Node.py true
+20:51:07 | INFO | 64  1161. Maximum Level Sum of a Binary Tree.py keep                           false
+20:51:07 | INFO | 65  1162. As Far from Land as Possible.py keep                           false
+20:51:07 | INFO | 66  1167. Minimum Cost to Connect Sticks.py keep                           false
+20:51:07 | INFO | 67  117. Populating Next Right Pointers in Each Node II.py 0117. Populating Next Right Pointers in Each Node II.py true
+20:51:07 | INFO | 68  118.generate.py                0118.generate.py               true
+20:51:07 | INFO | 69  1182. Shortest Distance to Target Color.py keep                           false
+20:51:07 | INFO | 70  1189. Maximum Number of Balloons.py keep                           false
+20:51:07 | INFO | 71  119. getRow.py                 0119. getRow.py                true
+20:51:07 | INFO | 72  1192. Critical Connections in a Network.py keep                           false
+20:51:07 | INFO | 73  1197. Minimum Knight Moves.py  keep                           false
+20:51:07 | INFO | 74  1198. Find Smallest Common Element in All Rows.py keep                           false
+20:51:07 | INFO | 75  12. IntegertoRoman.py          0012. IntegertoRoman.py        true
+20:51:07 | INFO | 76  120. Triangle.py               0120. Triangle.py              true
+20:51:07 | INFO | 77  1201. Ugly Number III.py       keep                           false
+20:51:07 | INFO | 78  1202. Smallest String With Swaps.py keep                           false
+20:51:07 | INFO | 79  1208. Get Equal Substrings Within Budget.py keep                           false
+20:51:07 | INFO | 80  1209. Remove All Adjacent Duplicates in String II.py keep                           false
+20:51:07 | INFO | 81  121. maxProfit.py              0121. maxProfit.py             true
+20:51:07 | INFO | 82  1214. Two Sum BSTs.py          keep                           false
+20:51:07 | INFO | 83  1215. Stepping Numbers.py      keep                           false
+20:51:07 | INFO | 84  1216. Valid Palindrome III.py  keep                           false
+20:51:07 | INFO | 85  1219. Path with Maximum Gold.py keep                           false
+20:51:07 | INFO | 86  122. maxProfit.py              0122. maxProfit.py             true
+20:51:07 | INFO | 87  1220. Count Vowels Permutation.py keep                           false
+20:51:07 | INFO | 88  1229. Meeting Scheduler.py     keep                           false
+20:51:07 | INFO | 89  123. Best Time to Buy and Sell Stock III.py 0123. Best Time to Buy and Sell Stock III.py true
+20:51:07 | INFO | 90  1231. Divide Chocolate.py      keep                           false
+20:51:07 | INFO | 91  1234. Replace the Substring for Balanced String.py keep                           false
+20:51:07 | INFO | 92  1239. Maximum Length of a Concatenated String with Unique Characters.py keep                           false
+20:51:07 | INFO | 93  124. Binary Tree Maximum Path Sum.py 0124. Binary Tree Maximum Path Sum.py true
+20:51:07 | INFO | 94  1245. Tree Diameter.py         keep                           false
+20:51:07 | INFO | 95  1248. Count Number of Nice Subarrays.py keep                           false
+20:51:07 | INFO | 96  125. isPalindrome.py           0125. isPalindrome.py          true
+20:51:07 | INFO | 97  1254. Number of Closed Islands.py keep                           false
+20:51:07 | INFO | 98  1258. Synonymous Sentences.py  keep                           false
+20:51:07 | INFO | 99  126. Word Ladder II.py         0126. Word Ladder II.py        true
+20:51:07 | INFO | 100 1268. Search Suggestions System.py keep                           false
+20:51:07 | INFO | 101 127. Word Ladder.py            0127. Word Ladder.py           true
+20:51:07 | INFO | 102 1272. Remove Interval.py       keep                           false
+20:51:07 | INFO | 103 1273. Delete Tree Nodes.py     keep                           false
+20:51:07 | INFO | 104 1275. Find Winner on a Tic Tac Toe Game.py keep                           false
+20:51:07 | INFO | 105 128. Longest Consecutive Sequence.py 0128. Longest Consecutive Sequence.py true
+20:51:07 | INFO | 106 1283. Find the Smallest Divisor Given a Threshold.py keep                           false
+20:51:07 | INFO | 107 1286. Iterator for Combination.py keep                           false
+20:51:07 | INFO | 108 1288. Remove Covered Intervals.py keep                           false
+20:51:07 | INFO | 109 129. Sum Root to Leaf Numbers.py 0129. Sum Root to Leaf Numbers.py true
+20:51:07 | INFO | 110 1291. Sequential Digits.py     keep                           false
+20:51:07 | INFO | 111 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold.py keep                           false
+20:51:07 | INFO | 112 1293. Shortest Path in a Grid with Obstacles Elimination.py keep                           false
+20:51:07 | INFO | 113 13. romanToInt.py              0013. romanToInt.py            true
+20:51:07 | INFO | 114 130. Surrounded Regions.py     0130. Surrounded Regions.py    true
+20:51:07 | INFO | 115 1300. Sum of Mutated Array Closest to Target.py keep                           false
+20:51:07 | INFO | 116 1302. Deepest Leaves Sum.py    keep                           false
+20:51:07 | INFO | 117 1306. Jump Game III.py         keep                           false
+20:51:07 | INFO | 118 131. Palindrome Partitioning.py 0131. Palindrome Partitioning.py true
+20:51:07 | INFO | 119 1315. Sum of Nodes with Even-Valued Grandparent.py keep                           false
+20:51:07 | INFO | 120 1319. Number of Operations to Make Network Connected.py keep                           false
+20:51:07 | INFO | 121 132. Palindrome Partitioning II.py 0132. Palindrome Partitioning II.py true
+20:51:07 | INFO | 122 1328. Break a Palindrome.py    keep                           false
+20:51:07 | INFO | 123 133. Clone Graph.py            0133. Clone Graph.py           true
+20:51:07 | INFO | 124 1338. Reduce Array Size to The Half.py keep                           false
+20:51:07 | INFO | 125 1339. Maximum Product of Splitted Binary Tree.py keep                           false
+20:51:07 | INFO | 126 134. Gas Station.py            0134. Gas Station.py           true
+20:51:07 | INFO | 127 1353. Maximum Number of Events That Can Be Attended.py keep                           false
+20:51:07 | INFO | 128 1354. Construct Target Array With Multiple Sums.py keep                           false
+20:51:07 | INFO | 129 1358. Number of Substrings Containing All Three Characters.py keep                           false
+20:51:07 | INFO | 130 136. singleNumber.py           0136. singleNumber.py          true
+20:51:07 | INFO | 131 137. Single Number II.py       0137. Single Number II.py      true
+20:51:07 | INFO | 132 1376. Time Needed to Inform All Employees.py keep                           false
+20:51:07 | INFO | 133 138. Copy List with Random Pointer.py 0138. Copy List with Random Pointer.py true
+20:51:07 | INFO | 134 1383. Maximum Performance of a Team.py keep                           false
+20:51:07 | INFO | 135 139. Word Break.py             0139. Word Break.py            true
+20:51:07 | INFO | 136 1391. Check if There is a Valid Path in a Grid.py keep                           false
+20:51:07 | INFO | 137 14. longestCommonPrefix.py     0014. longestCommonPrefix.py   true
+20:51:07 | INFO | 138 140. Word Break II.py          0140. Word Break II.py         true
+20:51:07 | INFO | 139 141. hasCycle.py               0141. hasCycle.py              true
+20:51:07 | INFO | 140 1413. Minimum Value to Get Positive Step by Step Sum.py keep                           false
+20:51:07 | INFO | 141 1415. The k-th Lexicographical String of All Happy Strings of Length n.py keep                           false
+20:51:07 | INFO | 142 142. Linked List Cycle II.py   0142. Linked List Cycle II.py  true
+20:51:07 | INFO | 143 1423. Maximum Points You Can Obtain from Cards.py keep                           false
+20:51:07 | INFO | 144 1425. Constrained Subsequence Sum.py keep                           false
+20:51:07 | INFO | 145 1428. Leftmost Column with at Least a One.py keep                           false
+20:51:07 | INFO | 146 143. Reorder List.py           0143. Reorder List.py          true
+20:51:07 | INFO | 147 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.py keep                           false
+20:51:07 | INFO | 148 144. Binary Tree Preorder Traversal.py 0144. Binary Tree Preorder Traversal.py true
+20:51:07 | INFO | 149 1443. Minimum Time to Collect All Apples in a Tree.py keep                           false
+20:51:07 | INFO | 150 1448. Count Good Nodes in Binary Tree.py keep                           false
+20:51:07 | INFO | 151 145. Binary Tree Postorder Traversal.py 0145. Binary Tree Postorder Traversal.py true
+20:51:07 | INFO | 152 146. LRU Cache.py              0146. LRU Cache.py             true
+20:51:07 | INFO | 153 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.py keep                           false
+20:51:07 | INFO | 154 147. Insertion Sort List.py    0147. Insertion Sort List.py   true
+20:51:07 | INFO | 155 148. Sort List.py              0148. Sort List.py             true
+20:51:07 | INFO | 156 1485. Clone Binary Tree With Random Pointer.py keep                           false
+20:51:07 | INFO | 157 1490. Clone N-ary Tree.py      keep                           false
+20:51:07 | INFO | 158 1493. Longest Subarray of 1's After Deleting One Element.py keep                           false
+20:51:07 | INFO | 159 1499. Max Value of Equation.py keep                           false
+20:51:07 | INFO | 160 15. 3Sum.py                    0015. 3Sum.py                  true
+20:51:07 | INFO | 161 150. Evaluate Reverse Polish Notation.py 0150. Evaluate Reverse Polish Notation.py true
+20:51:07 | INFO | 162 151. Reverse Words in a String.py 0151. Reverse Words in a String.py true
+20:51:07 | INFO | 163 152. Maximum Product Subarray.py 0152. Maximum Product Subarray.py true
+20:51:07 | INFO | 164 1522. Diameter of N-Ary Tree.py keep                           false
+20:51:07 | INFO | 165 1523. Count Odd Numbers in an Interval Range.py keep                           false
+20:51:07 | INFO | 166 1524. Number of Sub-arrays With Odd Sum.py keep                           false
+20:51:07 | INFO | 167 1525. Number of Good Ways to Split a String.py keep                           false
+20:51:07 | INFO | 168 1526. Minimum Number of Increments on Subarrays to Form a Target Array.py keep                           false
+20:51:07 | INFO | 169 1528. Shuffle String.py        keep                           false
+20:51:07 | INFO | 170 1529. Bulb Switcher IV.py      keep                           false
+20:51:07 | INFO | 171 153. Find Minimum in Rotated Sorted Array.py 0153. Find Minimum in Rotated Sorted Array.py true
+20:51:07 | INFO | 172 1530. Number of Good Leaf Nodes Pairs.py keep                           false
+20:51:07 | INFO | 173 1533. Find the Index of the Large Integer.py keep                           false
+20:51:07 | INFO | 174 1534. Count Good Triplets.py   keep                           false
+20:51:07 | INFO | 175 1535. Find the Winner of an Array Game.py keep                           false
+20:51:07 | INFO | 176 1536. Minimum Swaps to Arrange a Binary Grid.py keep                           false
+20:51:07 | INFO | 177 1537. Get the Maximum Score.py keep                           false
+20:51:07 | INFO | 178 1539. Kth Missing Positive Number.py keep                           false
+20:51:07 | INFO | 179 154. Find Minimum in Rotated Sorted Array II.py 0154. Find Minimum in Rotated Sorted Array II.py true
+20:51:07 | INFO | 180 1540. Can Convert String in K Moves.py keep                           false
+20:51:07 | INFO | 181 1541. Minimum Insertions to Balance a Parentheses String.py keep                           false
+20:51:07 | INFO | 182 1542. Find Longest Awesome Substring.py keep                           false
+20:51:07 | INFO | 183 1544. Make The String Great.py keep                           false
+20:51:07 | INFO | 184 1545. Find Kth Bit in Nth Binary String.py keep                           false
+20:51:07 | INFO | 185 1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target.py keep                           false
+20:51:07 | INFO | 186 1547. Minimum Cost to Cut a Stick.py keep                           false
+20:51:07 | INFO | 187 155. MinStack.py               0155. MinStack.py              true
+20:51:07 | INFO | 188 1550. Three Consecutive Odds.py keep                           false
+20:51:07 | INFO | 189 1551. Minimum Operations to Make Array Equal.py keep                           false
+20:51:07 | INFO | 190 1552. Magnetic Force Between Two Balls.py keep                           false
+20:51:07 | INFO | 191 1553. Minimum Number of Days to Eat N Oranges.py keep                           false
+20:51:07 | INFO | 192 1556. Thousand Separator.py    keep                           false
+20:51:07 | INFO | 193 1557. Minimum Number of Vertices to Reach All Nodes.py keep                           false
+20:51:07 | INFO | 194 1558. Minimum Numbers of Function Calls to Make Target Array.py keep                           false
+20:51:07 | INFO | 195 1559. Detect Cycles in 2D Grid.py keep                           false
+20:51:07 | INFO | 196 1560. Most Visited Sector in a Circular Track.py keep                           false
+20:51:07 | INFO | 197 1561. Maximum Number of Coins You Can Get.py keep                           false
+20:51:07 | INFO | 198 1562. Find Latest Group of Size M.py keep                           false
+20:51:07 | INFO | 199 1564. Put Boxes Into the Warehouse I.py keep                           false
+20:51:07 | INFO | 200 1566. Detect Pattern of Length M Repeated K or More Times.py keep                           false
+20:51:07 | INFO | 201 1567. Maximum Length of Subarray With Positive Product.py keep                           false
+20:51:07 | INFO | 202 1568. Minimum Number of Days to Disconnect Island.py keep                           false
+20:51:07 | INFO | 203 1569. Number of Ways to Reorder Array to Get Same BST.py keep                           false
+20:51:07 | INFO | 204 1572. Matrix Diagonal Sum.py   keep                           false
+20:51:07 | INFO | 205 1573. Number of Ways to Split a String.py keep                           false
+20:51:07 | INFO | 206 1574. Shortest Subarray to be Removed to Make Array Sorted.py keep                           false
+20:51:07 | INFO | 207 1575. Count All Possible Routes.py keep                           false
+20:51:07 | INFO | 208 1576. Replace All question mark to Avoid Consecutive Repeating Characters.py keep                           false
+20:51:07 | INFO | 209 1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py keep                           false
+20:51:07 | INFO | 210 1578. Minimum Deletion Cost to Avoid Repeating Letters.py keep                           false
+20:51:07 | INFO | 211 1579. Remove Max Number of Edges to Keep Graph Fully Traversable.py keep                           false
+20:51:07 | INFO | 212 1582. Special Positions in a Binary Matrix.py keep                           false
+20:51:07 | INFO | 213 1583. Count Unhappy Friends.py keep                           false
+20:51:07 | INFO | 214 1584. Min Cost to Connect All Points.py keep                           false
+20:51:07 | INFO | 215 1588. Sum of All Odd Length Subarrays.py keep                           false
+20:51:07 | INFO | 216 1589. Maximum Sum Obtained of Any Permutation.py keep                           false
+20:51:07 | INFO | 217 159. Longest Substring with At Most Two Distinct Characters.py 0159. Longest Substring with At Most Two Distinct Characters.py true
+20:51:07 | INFO | 218 1590. Make Sum Divisible by P.py keep                           false
+20:51:07 | INFO | 219 1591. Strange Printer II.py    keep                           false
+20:51:07 | INFO | 220 1592. Rearrange Spaces Between Words.py keep                           false
+20:51:07 | INFO | 221 1593. Split a String Into the Max Number of Unique Substrings.py keep                           false
+20:51:07 | INFO | 222 1594. Maximum Non Negative Product in a Matrix.py keep                           false
+20:51:07 | INFO | 223 1595. Minimum Cost to Connect Two Groups of Points.py keep                           false
+20:51:07 | INFO | 224 1599. Maximum Profit of Operating a Centennial Wheel.py keep                           false
+20:51:07 | INFO | 225 16. 3SumClosest.py             0016. 3SumClosest.py           true
+20:51:07 | INFO | 226 160.getIntersectionNode.py     0160.getIntersectionNode.py    true
+20:51:07 | INFO | 227 1600. Throne Inheritance.py    keep                           false
+20:51:07 | INFO | 228 1601. Maximum Number of Achievable Transfer Requests.py keep                           false
+20:51:07 | INFO | 229 1602. Find Nearest Right Node in Binary Tree.py keep                           false
+20:51:07 | INFO | 230 1603. Design Parking System.py keep                           false
+20:51:07 | INFO | 231 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period.py keep                           false
+20:51:07 | INFO | 232 1605. Find Valid Matrix Given Row and Column Sums.py keep                           false
+20:51:07 | INFO | 233 1608. Special Array With X Elements Greater Than or Equal X.py keep                           false
+20:51:07 | INFO | 234 1609. Even Odd Tree.py         keep                           false
+20:51:07 | INFO | 235 1610. Maximum Number of Visible Points.py keep                           false
+20:51:07 | INFO | 236 1615. Maximal Network Rank.py  keep                           false
+20:51:07 | INFO | 237 1616. Split Two Strings to Make Palindrome.py keep                           false
+20:51:07 | INFO | 238 1617. Count Subtrees With Max Distance Between Cities.py keep                           false
+20:51:07 | INFO | 239 1618. Maximum Font to Fit a Sentence in a Screen.py keep                           false
+20:51:07 | INFO | 240 162. Find Peak Element.py      0162. Find Peak Element.py     true
+20:51:07 | INFO | 241 1620. Coordinate With Maximum Network Quality.py keep                           false
+20:51:07 | INFO | 242 1621. Number of Sets of K Non-Overlapping Line Segments.py keep                           false
+20:51:07 | INFO | 243 1622. Fancy Sequence.py        keep                           false
+20:51:07 | INFO | 244 1625. Lexicographically Smallest String After Applying Operations.py keep                           false
+20:51:07 | INFO | 245 1626. Best Team With No Conflicts.py keep                           false
+20:51:07 | INFO | 246 1627. Graph Connectivity With Threshold.py keep                           false
+20:51:07 | INFO | 247 1629. Slowest Key.py           keep                           false
+20:51:07 | INFO | 248 163. Missing Ranges.cpp        keep                           false
+20:51:07 | INFO | 249 1630. Arithmetic Subarrays.py  keep                           false
+20:51:07 | INFO | 250 1631. Path With Minimum Effort.py keep                           false
+20:51:07 | INFO | 251 1632. Rank Transform of a Matrix.py keep                           false
+20:51:07 | INFO | 252 1637. Widest Vertical Area Between Two Points Containing No Points.py keep                           false
+20:51:07 | INFO | 253 1638. Count Substrings That Differ by One Character.py keep                           false
+20:51:07 | INFO | 254 1639. Number of Ways to Form a Target String Given a Dictionary.py keep                           false
+20:51:07 | INFO | 255 164. Maximum Gap.py            0164. Maximum Gap.py           true
+20:51:07 | INFO | 256 1641. Count Sorted Vowel Strings.py keep                           false
+20:51:07 | INFO | 257 1642. Furthest Building You Can Reach.py keep                           false
+20:51:07 | INFO | 258 1643. Kth Smallest Instructions.py keep                           false
+20:51:07 | INFO | 259 1647. Minimum Deletions to Make Character Frequencies Unique.py keep                           false
+20:51:07 | INFO | 260 1648. Sell Diminishing-Valued Colored Balls.py keep                           false
+20:51:07 | INFO | 261 1649. Create Sorted Array through Instructions.py keep                           false
+20:51:07 | INFO | 262 165. Compare Version Numbers.py 0165. Compare Version Numbers.py true
+20:51:07 | INFO | 263 1653. Minimum Deletions to Make String Balanced.py keep                           false
+20:51:07 | INFO | 264 1654. Minimum Jumps to Reach Home.py keep                           false
+20:51:07 | INFO | 265 1655. Distribute Repeating Integers.py keep                           false
+20:51:07 | INFO | 266 1657. Determine if Two Strings Are Close.py keep                           false
+20:51:07 | INFO | 267 1658. Minimum Operations to Reduce X to Zero.py keep                           false
+20:51:07 | INFO | 268 1659. Maximize Grid Happiness.py keep                           false
+20:51:07 | INFO | 269 166. Fraction to Recurring Decimal.py 0166. Fraction to Recurring Decimal.py true
+20:51:07 | INFO | 270 1663. Smallest String With A Given Numeric Value.py keep                           false
+20:51:07 | INFO | 271 1664. Ways to Make a Fair Array.py keep                           false
+20:51:07 | INFO | 272 1665. Minimum Initial Energy to Finish Tasks.py keep                           false
+20:51:07 | INFO | 273 1669. Merge In Between Linked Lists.py keep                           false
+20:51:07 | INFO | 274 1670. Design Front Middle Back Queue.py keep                           false
+20:51:07 | INFO | 275 1671. Minimum Number of Removals to Make Mountain Array.py keep                           false
+20:51:07 | INFO | 276 1673. Find the Most Competitive Subsequence.py keep                           false
+20:51:07 | INFO | 277 1674. Minimum Moves to Make Array Complementary.py keep                           false
+20:51:07 | INFO | 278 1675. Minimize Deviation in Array.py keep                           false
+20:51:07 | INFO | 279 1679. Max Number of K-Sum Pairs.py keep                           false
+20:51:07 | INFO | 280 167_twoSum.py                  167_twoSum.py                  true
+20:51:07 | INFO | 281 1680. Concatenation of Consecutive Binary Numbers.py keep                           false
+20:51:07 | INFO | 282 1681. Minimum Incompatibility.py keep                           false
+20:51:07 | INFO | 283 1685. Sum of Absolute Differences in a Sorted Array.py keep                           false
+20:51:07 | INFO | 284 1686. Stone Game VI.py         keep                           false
+20:51:07 | INFO | 285 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.py keep                           false
+20:51:07 | INFO | 286 168_convertToTitle.py          168_convertToTitle.py          true
+20:51:07 | INFO | 287 1690. Stone Game VII.py        keep                           false
+20:51:07 | INFO | 288 1691. Maximum Height by Stacking Cuboids.py keep                           false
+20:51:07 | INFO | 289 1695. Maximum Erasure Value.py keep                           false
+20:51:07 | INFO | 290 1696. Jump Game VI.py          keep                           false
+20:51:07 | INFO | 291 1697. Checking Existence of Edge Length Limited Paths.py keep                           false
+20:51:07 | INFO | 292 1698. Number of Distinct Substrings in a String.py keep                           false
+20:51:07 | INFO | 293 169_majorityElement.py         169_majorityElement.py         true
+20:51:07 | INFO | 294 17. LetterCombinationsofaPhoneNumber.py 0017. LetterCombinationsofaPhoneNumber.py true
+20:51:07 | INFO | 295 1701. Average Waiting Time.py  keep                           false
+20:51:07 | INFO | 296 1702. Maximum Binary String After Change.py keep                           false
+20:51:07 | INFO | 297 1703. Minimum Adjacent Swaps for K Consecutive Ones.py keep                           false
+20:51:07 | INFO | 298 1705. Maximum Number of Eaten Apples.py keep                           false
+20:51:07 | INFO | 299 1706. Where Will the Ball Fall.py keep                           false
+20:51:07 | INFO | 300 1707. Maximum XOR With an Element From Array.py keep                           false
+20:51:07 | INFO | 301 1710. Maximum Units on a Truck.py keep                           false
+20:51:07 | INFO | 302 1711. Count Good Meals.py      keep                           false
+20:51:07 | INFO | 303 1712. Ways to Split Array Into Three Subarrays.py keep                           false
+20:51:07 | INFO | 304 1713. Minimum Operations to Make a Subsequence.py keep                           false
+20:51:07 | INFO | 305 1717. Maximum Score From Removing Substrings.py keep                           false
+20:51:07 | INFO | 306 1718. Construct the Lexicographically Largest Valid Sequence.py keep                           false
+20:51:07 | INFO | 307 1719. Number Of Ways To Reconstruct A Tree.py keep                           false
+20:51:07 | INFO | 308 171_titleToNumber.py           171_titleToNumber.py           true
+20:51:07 | INFO | 309 1721. Swapping Nodes in a Linked List.py keep                           false
+20:51:07 | INFO | 310 1722. Minimize Hamming Distance After Swap Operations.py keep                           false
+20:51:07 | INFO | 311 1723. Find Minimum Time to Finish All Jobs.py keep                           false
+20:51:07 | INFO | 312 1726. Tuple with Same Product.py keep                           false
+20:51:07 | INFO | 313 1727. Largest Submatrix With Rearrangements.py keep                           false
+20:51:07 | INFO | 314 172_trailingZeroes.py          172_trailingZeroes.py          true
+20:51:07 | INFO | 315 173. Binary Search Tree Iterator.py 0173. Binary Search Tree Iterator.py true
+20:51:07 | INFO | 316 1730. Shortest Path to Get Food.py keep                           false
+20:51:07 | INFO | 317 1733. Minimum Number of People to Teach.py keep                           false
+20:51:07 | INFO | 318 1734. Decode XORed Permutation.py keep                           false
+20:51:07 | INFO | 319 1737. Change Minimum Characters to Satisfy One of Three Conditions.py keep                           false
+20:51:07 | INFO | 320 1738. Find Kth Largest XOR Coordinate Value.py keep                           false
+20:51:07 | INFO | 321 1739. Building Boxes.py        keep                           false
+20:51:07 | INFO | 322 1740. Find Distance in a Binary Tree.py keep                           false
+20:51:07 | INFO | 323 1743. Restore the Array From Adjacent Pairs.py keep                           false
+20:51:07 | INFO | 324 1744. Can You Eat Your Favorite Candy on Your Favorite Day.py keep                           false
+20:51:07 | INFO | 325 1745. Palindrome Partitioning IV.py keep                           false
+20:51:07 | INFO | 326 1749. Maximum Absolute Sum of Any Subarray.py keep                           false
+20:51:07 | INFO | 327 1750. Minimum Length of String After Deleting Similar Ends.py keep                           false
+20:51:07 | INFO | 328 1751. Maximum Number of Events That Can Be Attended II.py keep                           false
+20:51:07 | INFO | 329 1753. Maximum Score From Removing Stones.py keep                           false
+20:51:07 | INFO | 330 1754. Largest Merge Of Two Strings.py keep                           false
+20:51:07 | INFO | 331 1755. Closest Subsequence Sum.py keep                           false
+20:51:07 | INFO | 332 1759. Count Number of Homogenous Substrings.py keep                           false
+20:51:07 | INFO | 333 1760. Minimum Limit of Balls in a Bag.py keep                           false
+20:51:07 | INFO | 334 1761. Minimum Degree of a Connected Trio in a Graph.py keep                           false
+20:51:07 | INFO | 335 1762. Buildings With an Ocean View.py keep                           false
+20:51:07 | INFO | 336 1764. Form Array by Concatenating Subarrays of Another Array.py keep                           false
+20:51:07 | INFO | 337 1765. Map of Highest Peak.py   keep                           false
+20:51:07 | INFO | 338 1766. Tree of Coprimes.py      keep                           false
+20:51:07 | INFO | 339 1770. Maximum Score from Performing Multiplication Operations.py keep                           false
+20:51:07 | INFO | 340 1771. Maximize Palindrome Length From Subsequences.py keep                           false
+20:51:07 | INFO | 341 1774. Closest Dessert Cost.py  keep                           false
+20:51:07 | INFO | 342 1776. Car Fleet II.py          keep                           false
+20:51:07 | INFO | 343 1780. Check if Number is a Sum of Powers of Three.py keep                           false
+20:51:07 | INFO | 344 1781. Sum of Beauty of All Substrings.py keep                           false
+20:51:07 | INFO | 345 1782. Count Pairs Of Nodes.py  keep                           false
+20:51:07 | INFO | 346 1786. Number of Restricted Paths From First to Last Node.py keep                           false
+20:51:07 | INFO | 347 1787. Make the XOR of All Segments Equal to Zero.py keep                           false
+20:51:07 | INFO | 348 179. Largest Number.py         0179. Largest Number.py        true
+20:51:07 | INFO | 349 1797. Design Authentication Manager.py keep                           false
+20:51:07 | INFO | 350 1798. Maximum Number of Consecutive Values You Can Make.py keep                           false
+20:51:07 | INFO | 351 1799. Maximize Score After N Operations.py keep                           false
+20:51:07 | INFO | 352 18. 4Sum.py                    0018. 4Sum.py                  true
+20:51:07 | INFO | 353 1802. Maximum Value at a Given Index in a Bounded Array.py keep                           false
+20:51:07 | INFO | 354 1803. Count Pairs With XOR in a Range.py keep                           false
+20:51:07 | INFO | 355 1808. Maximize Number of Nice Divisors.py keep                           false
+20:51:07 | INFO | 356 1813. Sentence Similarity III.py keep                           false
+20:51:07 | INFO | 357 1814. Count Nice Pairs in an Array.py keep                           false
+20:51:07 | INFO | 358 1815. Maximum Number of Groups Getting Fresh Donuts.py keep                           false
+20:51:07 | INFO | 359 1818. Minimum Absolute Sum Difference.py keep                           false
+20:51:07 | INFO | 360 1819. Number of Different Subsequences GCDs.py keep                           false
+20:51:07 | INFO | 361 1825. Finding MK Average.py    keep                           false
+20:51:07 | INFO | 362 1828. Queries on Number of Points Inside a Circle.py keep                           false
+20:51:07 | INFO | 363 1829. Maximum XOR for Each Query.py keep                           false
+20:51:07 | INFO | 364 1830. Minimum Number of Operations to Make String Sorted.py keep                           false
+20:51:07 | INFO | 365 1834. Single-Threaded CPU.py   keep                           false
+20:51:07 | INFO | 366 1838. Frequency of the Most Frequent Element.py keep                           false
+20:51:07 | INFO | 367 1839. Longest Substring Of All Vowels in Order.py keep                           false
+20:51:07 | INFO | 368 1840. Maximum Building Height.py keep                           false
+20:51:07 | INFO | 369 1845. Seat Reservation Manager.py keep                           false
+20:51:07 | INFO | 370 1846. Maximum Element After Decreasing and Rearranging.py keep                           false
+20:51:07 | INFO | 371 1847. Closest Room.py          keep                           false
+20:51:07 | INFO | 372 1849. Splitting a String Into Descending Consecutive Values.py keep                           false
+20:51:07 | INFO | 373 1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number.py keep                           false
+20:51:07 | INFO | 374 1851. Minimum Interval to Include Each Query.py keep                           false
+20:51:07 | INFO | 375 1855. Maximum Distance Between a Pair of Values.py keep                           false
+20:51:07 | INFO | 376 1856. Maximum Subarray Min-Product.py keep                           false
+20:51:07 | INFO | 377 1857. Largest Color Value in a Directed Graph.py keep                           false
+20:51:07 | INFO | 378 186. Reverse Words in a String II.py 0186. Reverse Words in a String II.py true
+20:51:07 | INFO | 379 1860. Incremental Memory Leak.py keep                           false
+20:51:07 | INFO | 380 1861. Rotating the Box.py      keep                           false
+20:51:07 | INFO | 381 1862. Sum of Floored Pairs.py  keep                           false
+20:51:07 | INFO | 382 1864. Minimum Number of Swaps to Make the Binary String Alternating.py keep                           false
+20:51:07 | INFO | 383 1865. Finding Pairs With a Certain Sum.py keep                           false
+20:51:07 | INFO | 384 1866. Number of Ways to Rearrange Sticks With K Sticks Visible.py keep                           false
+20:51:07 | INFO | 385 187. Repeated DNA Sequences.py 0187. Repeated DNA Sequences.py true
+20:51:07 | INFO | 386 1870. Minimum Speed to Arrive on Time.py keep                           false
+20:51:07 | INFO | 387 1871. Jump Game VII.py         keep                           false
+20:51:07 | INFO | 388 1872. Stone Game VIII.py       keep                           false
+20:51:07 | INFO | 389 1877. Minimize Maximum Pair Sum in Array.py keep                           false
+20:51:07 | INFO | 390 1878. Get Biggest Three Rhombus Sums in a Grid.py keep                           false
+20:51:07 | INFO | 391 1879. Minimum XOR Sum of Two Arrays.py keep                           false
+20:51:07 | INFO | 392 1881. Maximum Value after Insertion.py keep                           false
+20:51:07 | INFO | 393 1882. Process Tasks Using Servers.py keep                           false
+20:51:07 | INFO | 394 1883. Minimum Skips to Arrive at Meeting On Time.py keep                           false
+20:51:07 | INFO | 395 1887. Reduction Operations to Make the Array Elements Equal.py keep                           false
+20:51:07 | INFO | 396 1888. Minimum Number of Flips to Make the Binary String Alternating.py keep                           false
+20:51:07 | INFO | 397 1889. Minimum Space Wasted From Packaging.py keep                           false
+20:51:07 | INFO | 398 1893. Check if All the Integers in a Range Are Covered.py keep                           false
+20:51:07 | INFO | 399 1894. Find the Student that Will Replace the Chalk.py keep                           false
+20:51:07 | INFO | 400 1895. Largest Magic Square.py  keep                           false
+20:51:07 | INFO | 401 1896. Minimum Cost to Change the Final Value of Expression.py keep                           false
+20:51:07 | INFO | 402 1897. Redistribute Characters to Make All Strings Equal.py keep                           false
+20:51:07 | INFO | 403 1898. Maximum Number of Removable Characters.py keep                           false
+20:51:07 | INFO | 404 1899. Merge Triplets to Form Target Triplet.py keep                           false
+20:51:07 | INFO | 405 189_rotate.py                  189_rotate.py                  true
+20:51:07 | INFO | 406 19. Remove Nth Node From End of List.py 0019. Remove Nth Node From End of List.py true
+20:51:07 | INFO | 407 1900. The Earliest and Latest Rounds Where Players Compete.py keep                           false
+20:51:07 | INFO | 408 1903. Largest Odd Number in String.py keep                           false
+20:51:07 | INFO | 409 1904. The Number of Full Rounds You Have Played.py keep                           false
+20:51:07 | INFO | 410 1905. Count Sub Islands.py     keep                           false
+20:51:07 | INFO | 411 1906. Minimum Absolute Difference Queries.py keep                           false
+20:51:07 | INFO | 412 1909. Remove One Element to Make the Array Strictly Increasing.py keep                           false
+20:51:07 | INFO | 413 190_reverseBits.py             190_reverseBits.py             true
+20:51:07 | INFO | 414 1910. Remove All Occurrences of a Substring.py keep                           false
+20:51:07 | INFO | 415 1911. Maximum Alternating Subsequence Sum.py keep                           false
+20:51:07 | INFO | 416 1912. Design Movie Rental System.py keep                           false
+20:51:07 | INFO | 417 1913. Maximum Product Difference Between Two Pairs.py keep                           false
+20:51:07 | INFO | 418 1914. Cyclically Rotating a Grid.py keep                           false
+20:51:07 | INFO | 419 1915. Number of Wonderful Substrings.py keep                           false
+20:51:07 | INFO | 420 1916. Count Ways to Build Rooms in an Ant Colony.py keep                           false
+20:51:07 | INFO | 421 191_hammingWeight.py           191_hammingWeight.py           true
+20:51:07 | INFO | 422 1920. Build Array from Permutation.py keep                           false
+20:51:07 | INFO | 423 1921. Eliminate Maximum Number of Monsters.py keep                           false
+20:51:07 | INFO | 424 1922. Count Good Numbers.py    keep                           false
+20:51:07 | INFO | 425 1923. Longest Common Subpath.py keep                           false
+20:51:07 | INFO | 426 1925. Count Square Sum Triples.py keep                           false
+20:51:07 | INFO | 427 1926. Nearest Exit from Entrance in Maze.py keep                           false
+20:51:07 | INFO | 428 1927. Sum Game.py              keep                           false
+20:51:07 | INFO | 429 1928. Minimum Cost to Reach Destination in Time.py keep                           false
+20:51:07 | INFO | 430 1929. Concatenation of Array.py keep                           false
+20:51:07 | INFO | 431 1930. Unique Length-3 Palindromic Subsequences.py keep                           false
+20:51:07 | INFO | 432 1931. Painting a Grid With Three Different Colors.py keep                           false
+20:51:07 | INFO | 433 1932. Merge BSTs to Create Single BST.py keep                           false
+20:51:07 | INFO | 434 1935. Maximum Number of Words You Can Type.py keep                           false
+20:51:07 | INFO | 435 1936. Add Minimum Number of Rungs.py keep                           false
+20:51:07 | INFO | 436 1937. Maximum Number of Points with Cost.py keep                           false
+20:51:07 | INFO | 437 1938. Maximum Genetic Difference Query.py keep                           false
+20:51:07 | INFO | 438 1941. Check if All Characters Have Equal Number of Occurrences.py keep                           false
+20:51:07 | INFO | 439 1942. The Number of the Smallest Unoccupied Chair.py keep                           false
+20:51:07 | INFO | 440 1943. Describe the Painting.py keep                           false
+20:51:07 | INFO | 441 1944. Number of Visible People in a Queue.py keep                           false
+20:51:07 | INFO | 442 1945. Sum of Digits of String After Convert.py keep                           false
+20:51:07 | INFO | 443 1946. Largest Number After Mutating Substring.py keep                           false
+20:51:07 | INFO | 444 1947. Maximum Compatibility Score Sum.py keep                           false
+20:51:07 | INFO | 445 1948. Delete Duplicate Folders in System.py keep                           false
+20:51:07 | INFO | 446 1952. Three Divisors.py        keep                           false
+20:51:07 | INFO | 447 1953. Maximum Number of Weeks for Which You Can Work.py keep                           false
+20:51:07 | INFO | 448 1954. Minimum Garden Perimeter to Collect Enough Apples.py keep                           false
+20:51:07 | INFO | 449 1955. Count Number of Special Subsequences.py keep                           false
+20:51:07 | INFO | 450 1957. Delete Characters to Make Fancy String.py keep                           false
+20:51:07 | INFO | 451 1958. Check if Move is Legal.py keep                           false
+20:51:07 | INFO | 452 1959. Minimum Total Space Wasted With K Resizing Operations.py keep                           false
+20:51:07 | INFO | 453 1961. Check If String Is a Prefix of Array.py keep                           false
+20:51:07 | INFO | 454 1962. Remove Stones to Minimize the Total.py keep                           false
+20:51:07 | INFO | 455 1963. Minimum Number of Swaps to Make the String Balanced.py keep                           false
+20:51:07 | INFO | 456 1964. Find the Longest Valid Obstacle Course at Each Position.py keep                           false
+20:51:07 | INFO | 457 1967. Number of Strings That Appear as Substrings in Word.py keep                           false
+20:51:07 | INFO | 458 1968. Array With Elements Not Equal to Average of Neighbors.py keep                           false
+20:51:07 | INFO | 459 1969. Minimum Non-Zero Product of the Array Elements.py keep                           false
+20:51:07 | INFO | 460 1970. Last Day Where You Can Still Cross.py keep                           false
+20:51:07 | INFO | 461 1974. Minimum Time to Type Word Using Special Typewriter.py keep                           false
+20:51:07 | INFO | 462 1975. Maximum Matrix Sum.py    keep                           false
+20:51:07 | INFO | 463 1976. Number of Ways to Arrive at Destination.py keep                           false
+20:51:07 | INFO | 464 1979. Find Greatest Common Divisor of Array.py keep                           false
+20:51:07 | INFO | 465 198. House Robber.cpp          keep                           false
+20:51:07 | INFO | 466 1980. Find Unique Binary String.py keep                           false
+20:51:07 | INFO | 467 1981. Minimize the Difference Between Target and Chosen Elements.py keep                           false
+20:51:07 | INFO | 468 1984. Minimum Difference Between Highest and Lowest of K Scores.py keep                           false
+20:51:07 | INFO | 469 1985. Find the Kth Largest Integer in the Array.py keep                           false
+20:51:07 | INFO | 470 1986. Minimum Number of Work Sessions to Finish the Tasks.py keep                           false
+20:51:07 | INFO | 471 1987. Number of Unique Good Subsequences.py keep                           false
+20:51:07 | INFO | 472 199. Binary Tree Right Side View.py 0199. Binary Tree Right Side View.py true
+20:51:07 | INFO | 473 1991. Find the Middle Index in Array.py keep                           false
+20:51:07 | INFO | 474 1992. Find All Groups of Farmland.py keep                           false
+20:51:07 | INFO | 475 1993. Operations on Tree.py    keep                           false
+20:51:07 | INFO | 476 1994. The Number of Good Subsets.py keep                           false
+20:51:07 | INFO | 477 1995. Count Special Quadruplets.py keep                           false
+20:51:07 | INFO | 478 1996. The Number of Weak Characters in the Game.py keep                           false
+20:51:07 | INFO | 479 1997. First Day Where You Have Been in All the Rooms.py keep                           false
+20:51:07 | INFO | 480 1998. GCD Sort of an Array.py  keep                           false
+20:51:07 | INFO | 481 2.add2num.py                   0002.add2num.py                true
+20:51:07 | INFO | 482 20. isValid.py                 0020. isValid.py               true
+20:51:07 | INFO | 483 200. Number of Islands.py      0200. Number of Islands.py     true
+20:51:07 | INFO | 484 2000. Reverse Prefix of Word.py keep                           false
+20:51:07 | INFO | 485 2001. Number of Pairs of Interchangeable Rectangles.py keep                           false
+20:51:07 | INFO | 486 2002. Maximum Product of the Length of Two Palindromic Subsequences.py keep                           false
+20:51:07 | INFO | 487 2003. Smallest Missing Genetic Value in Each Subtree.py keep                           false
+20:51:07 | INFO | 488 2006. Count Number of Pairs With Absolute Difference K.py keep                           false
+20:51:07 | INFO | 489 2007. Find Original Array From Doubled Array.py keep                           false
+20:51:07 | INFO | 490 2008. Maximum Earnings From Taxi.py keep                           false
+20:51:07 | INFO | 491 2009. Minimum Number of Operations to Make Array Continuous.py keep                           false
+20:51:07 | INFO | 492 201. Bitwise AND of Numbers Range.py 0201. Bitwise AND of Numbers Range.py true
+20:51:07 | INFO | 493 2011. Final Value of Variable After Performing Operations.py keep                           false
+20:51:07 | INFO | 494 2012. Sum of Beauty in the Array.py keep                           false
+20:51:07 | INFO | 495 2013. Detect Squares.py        keep                           false
+20:51:07 | INFO | 496 2014. Longest Subsequence Repeated k Times.py keep                           false
+20:51:07 | INFO | 497 2016. Maximum Difference Between Increasing Elements.py keep                           false
+20:51:07 | INFO | 498 2017. Grid Game.py             keep                           false
+20:51:07 | INFO | 499 2018. Check if Word Can Be Placed In Crossword.py keep                           false
+20:51:07 | INFO | 500 2019. The Score of Students Solving Math Expression.py keep                           false
+20:51:07 | INFO | 501 2022. Convert 1D Array Into 2D Array.py keep                           false
+20:51:07 | INFO | 502 2023. Number of Pairs of Strings With Concatenation Equal to Target.py keep                           false
+20:51:07 | INFO | 503 2024. Maximize the Confusion of an Exam.py keep                           false
+20:51:07 | INFO | 504 2027. Minimum Moves to Convert String.py keep                           false
+20:51:07 | INFO | 505 2028. Find Missing Observations.py keep                           false
+20:51:07 | INFO | 506 202_isHappy.py                 202_isHappy.py                 true
+20:51:07 | INFO | 507 2032. Two Out of Three.py      keep                           false
+20:51:07 | INFO | 508 2033. Minimum Operations to Make a Uni-Value Grid.py keep                           false
+20:51:07 | INFO | 509 2034. Stock Price Fluctuation.py keep                           false
+20:51:07 | INFO | 510 2035. Partition Array Into Two Arrays to Minimize Sum Difference.py keep                           false
+20:51:07 | INFO | 511 2037. Minimum Number of Moves to Seat Everyone.py keep                           false
+20:51:07 | INFO | 512 2038. Remove Colored Pieces if Both Neighbors are the Same Color.py keep                           false
+20:51:07 | INFO | 513 2039. The Time When the Network Becomes Idle.py keep                           false
+20:51:07 | INFO | 514 203_removeElements.py          203_removeElements.py          true
+20:51:07 | INFO | 515 2040. Kth Smallest Product of Two Sorted Arrays.py keep                           false
+20:51:07 | INFO | 516 2042. Check if Numbers Are Ascending in a Sentence.py keep                           false
+20:51:07 | INFO | 517 2043. Simple Bank System.py    keep                           false
+20:51:07 | INFO | 518 2044. Count Number of Maximum Bitwise-OR Subsets.py keep                           false
+20:51:07 | INFO | 519 2047. Number of Valid Words in a Sentence.py keep                           false
+20:51:07 | INFO | 520 2048. Next Greater Numerically Balanced Number.py keep                           false
+20:51:07 | INFO | 521 2049. Count Nodes With the Highest Score.py keep                           false
+20:51:07 | INFO | 522 204_countPrimes.py             204_countPrimes.py             true
+20:51:07 | INFO | 523 2050. Parallel Courses III.py  keep                           false
+20:51:07 | INFO | 524 2053. Kth Distinct String in an Array.py keep                           false
+20:51:07 | INFO | 525 2054. Two Best Non-Overlapping Events.py keep                           false
+20:51:07 | INFO | 526 2055. Plates Between Candles.py keep                           false
+20:51:07 | INFO | 527 2057. Smallest Index With Equal Value.py keep                           false
+20:51:07 | INFO | 528 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.py keep                           false
+20:51:07 | INFO | 529 2059. Minimum Operations to Convert Number.py keep                           false
+20:51:07 | INFO | 530 205_isIsomorphic.py            205_isIsomorphic.py            true
+20:51:07 | INFO | 531 2062. Count Vowel Substrings of a String.py keep                           false
+20:51:07 | INFO | 532 2063. Vowels of All Substrings.py keep                           false
+20:51:07 | INFO | 533 2064. Minimized Maximum of Products Distributed to Any Store.py keep                           false
+20:51:07 | INFO | 534 2065. Maximum Path Quality of a Graph.py keep                           false
+20:51:07 | INFO | 535 2068. Check Whether Two Strings are Almost Equivalent.py keep                           false
+20:51:07 | INFO | 536 2069. Walking Robot Simulation II.py keep                           false
+20:51:07 | INFO | 537 206_reverseList.py             206_reverseList.py             true
+20:51:07 | INFO | 538 207. Course Schedule.py        0207. Course Schedule.py       true
+20:51:07 | INFO | 539 2070. Most Beautiful Item for Each Query.py keep                           false
+20:51:07 | INFO | 540 2073. Time Needed to Buy Tickets.py keep                           false
+20:51:07 | INFO | 541 2074. Reverse Nodes in Even Length Groups.py keep                           false
+20:51:07 | INFO | 542 2075. Decode the Slanted Ciphertext.py keep                           false
+20:51:07 | INFO | 543 2076. Process Restricted Friend Requests.py keep                           false
+20:51:07 | INFO | 544 208. Implement Trie (Prefix Tree).py 0208. Implement Trie (Prefix Tree).py true
+20:51:07 | INFO | 545 209. Minimum Size Subarray Sum.py 0209. Minimum Size Subarray Sum.py true
+20:51:07 | INFO | 546 21. mergeTwoLists.py           0021. mergeTwoLists.py         true
+20:51:07 | INFO | 547 210. Course Schedule II.py     0210. Course Schedule II.py    true
+20:51:07 | INFO | 548 211. Add and Search Word - Data structure design.py 0211. Add and Search Word - Data structure design.py true
+20:51:07 | INFO | 549 212. Word Search II.py         0212. Word Search II.py        true
+20:51:07 | INFO | 550 213. House Robber II.py        0213. House Robber II.py       true
+20:51:07 | INFO | 551 215. Kth Largest Element in an Array.py 0215. Kth Largest Element in an Array.py true
+20:51:07 | INFO | 552 216. Combination Sum III.py    0216. Combination Sum III.py   true
+20:51:07 | INFO | 553 217_containsDuplicate.py       217_containsDuplicate.py       true
+20:51:07 | INFO | 554 218. The Skyline Problem.py    0218. The Skyline Problem.py   true
+20:51:07 | INFO | 555 219_containsNearbyDuplicate.py 219_containsNearbyDuplicate.py true
+20:51:07 | INFO | 556 22. GenerateParentheses.py     0022. GenerateParentheses.py   true
+20:51:07 | INFO | 557 220. Contains Duplicate III.py 0220. Contains Duplicate III.py true
+20:51:07 | INFO | 558 221. Maximal Square.py         0221. Maximal Square.py        true
+20:51:07 | INFO | 559 222. Count Complete Tree Nodes.py 0222. Count Complete Tree Nodes.py true
+20:51:07 | INFO | 560 223. Rectangle Area.py         0223. Rectangle Area.py        true
+20:51:07 | INFO | 561 225_Implement Stack using Queues.py 225_Implement Stack using Queues.py true
+20:51:07 | INFO | 562 225_lowestCommonAncestor.py    225_lowestCommonAncestor.py    true
+20:51:07 | INFO | 563 226_invertTree.py              226_invertTree.py              true
+20:51:07 | INFO | 564 227. Basic Calculator II.py    0227. Basic Calculator II.py   true
+20:51:07 | INFO | 565 228. Summary Ranges.py         0228. Summary Ranges.py        true
+20:51:07 | INFO | 566 229. Majority Element II.py    0229. Majority Element II.py   true
+20:51:07 | INFO | 567 23. Merge k Sorted Lists.py    0023. Merge k Sorted Lists.py  true
+20:51:07 | INFO | 568 230. Kth Smallest Element in a BST.py 0230. Kth Smallest Element in a BST.py true
+20:51:07 | INFO | 569 231_isPowerOfTwo.py            231_isPowerOfTwo.py            true
+20:51:07 | INFO | 570 232_MyQueue.py                 232_MyQueue.py                 true
+20:51:07 | INFO | 571 234_isPalindrome.py            234_isPalindrome.py            true
+20:51:07 | INFO | 572 235. Lowest Common Ancestor of a Binary Search Tree.py 0235. Lowest Common Ancestor of a Binary Search Tree.py true
+20:51:07 | INFO | 573 236. Lowest Common Ancestor of a Binary Tree.py 0236. Lowest Common Ancestor of a Binary Tree.py true
+20:51:07 | INFO | 574 237. Delete Node in a Linked List.py 0237. Delete Node in a Linked List.py true
+20:51:07 | INFO | 575 238. Product of Array Except Self.py 0238. Product of Array Except Self.py true
+20:51:07 | INFO | 576 239. Sliding Window Maximum.py 0239. Sliding Window Maximum.py true
+20:51:07 | INFO | 577 24.SwapNodesinPairs.py         0024.SwapNodesinPairs.py       true
+20:51:07 | INFO | 578 240. Search a 2D Matrix II.py  0240. Search a 2D Matrix II.py true
+20:51:07 | INFO | 579 241. Different Ways to Add Parentheses.py 0241. Different Ways to Add Parentheses.py true
+20:51:07 | INFO | 580 242_isAnagram.py               242_isAnagram.py               true
+20:51:07 | INFO | 581 243. Shortest Word Distance.py 0243. Shortest Word Distance.py true
+20:51:07 | INFO | 582 244. Shortest Word Distance II.py 0244. Shortest Word Distance II.py true
+20:51:07 | INFO | 583 245. Shortest Word Distance III.py 0245. Shortest Word Distance III.py true
+20:51:07 | INFO | 584 246. Strobogrammatic Number.py 0246. Strobogrammatic Number.py true
+20:51:07 | INFO | 585 247. Strobogrammatic Number II.py 0247. Strobogrammatic Number II.py true
+20:51:07 | INFO | 586 249. Group Shifted Strings.py  0249. Group Shifted Strings.py true
+20:51:07 | INFO | 587 250. Count Univalue Subtrees.py 0250. Count Univalue Subtrees.py true
+20:51:07 | INFO | 588 251. Flatten 2D Vector.py      0251. Flatten 2D Vector.py     true
+20:51:07 | INFO | 589 252. Meeting Rooms.py          0252. Meeting Rooms.py         true
+20:51:07 | INFO | 590 253. Meeting Rooms II.py       0253. Meeting Rooms II.py      true
+20:51:07 | INFO | 591 254. Factor Combinations.py    0254. Factor Combinations.py   true
+20:51:07 | INFO | 592 255. Verify Preorder Sequence in Binary Search Tree.py 0255. Verify Preorder Sequence in Binary Search Tree.py true
+20:51:07 | INFO | 593 256. Paint House.py            0256. Paint House.py           true
+20:51:07 | INFO | 594 257_binaryTreePaths.py         257_binaryTreePaths.py         true
+20:51:07 | INFO | 595 258_addDigits.py               258_addDigits.py               true
+20:51:07 | INFO | 596 259. 3Sum Smaller.py           0259. 3Sum Smaller.py          true
+20:51:07 | INFO | 597 26. removeDuplicates.py        0026. removeDuplicates.py      true
+20:51:07 | INFO | 598 260. Single Number III.py      0260. Single Number III.py     true
+20:51:07 | INFO | 599 261. Graph Valid Tree.py       0261. Graph Valid Tree.py      true
+20:51:07 | INFO | 600 263. UglyNumber.py             0263. UglyNumber.py            true
+20:51:07 | INFO | 601 264. Ugly Number II.py         0264. Ugly Number II.py        true
+20:51:07 | INFO | 602 265. Paint House II.py         0265. Paint House II.py        true
+20:51:07 | INFO | 603 266. Palindrome Permutation.py 0266. Palindrome Permutation.py true
+20:51:07 | INFO | 604 267. Palindrome Permutation II.py 0267. Palindrome Permutation II.py true
+20:51:07 | INFO | 605 268. MissingNumber.py          0268. MissingNumber.py         true
+20:51:07 | INFO | 606 269. Alien Dictionary.py       0269. Alien Dictionary.py      true
+20:51:07 | INFO | 607 27. removeElement.py           0027. removeElement.py         true
+20:51:07 | INFO | 608 270. Closest Binary Search Tree Value.py 0270. Closest Binary Search Tree Value.py true
+20:51:07 | INFO | 609 271. Encode and Decode Strings.py 0271. Encode and Decode Strings.py true
+20:51:07 | INFO | 610 272. Closest Binary Search Tree Value II.py 0272. Closest Binary Search Tree Value II.py true
+20:51:07 | INFO | 611 274. H-Index.py                0274. H-Index.py               true
+20:51:07 | INFO | 612 275. H-Index II.py             0275. H-Index II.py            true
+20:51:07 | INFO | 613 276. Paint Fence.py            0276. Paint Fence.py           true
+20:51:07 | INFO | 614 277. Find the Celebrity.py     0277. Find the Celebrity.py    true
+20:51:07 | INFO | 615 278. First BadVersion.py       0278. First BadVersion.py      true
+20:51:07 | INFO | 616 279. Perfect Squares.py        0279. Perfect Squares.py       true
+20:51:07 | INFO | 617 28. strStr.py                  0028. strStr.py                true
+20:51:07 | INFO | 618 280. Wiggle Sort.py            0280. Wiggle Sort.py           true
+20:51:07 | INFO | 619 281. Zigzag Iterator.py        0281. Zigzag Iterator.py       true
+20:51:07 | INFO | 620 282. Expression Add Operators.py 0282. Expression Add Operators.py true
+20:51:07 | INFO | 621 283. MoveZeroes.py             0283. MoveZeroes.py            true
+20:51:07 | INFO | 622 284. Peeking Iterator.py       0284. Peeking Iterator.py      true
+20:51:07 | INFO | 623 285. Inorder Successor in BST.py 0285. Inorder Successor in BST.py true
+20:51:07 | INFO | 624 286. Walls and Gates.py        0286. Walls and Gates.py       true
+20:51:07 | INFO | 625 287. Find the Duplicate Number.py 0287. Find the Duplicate Number.py true
+20:51:07 | INFO | 626 288. Unique Word Abbreviation.py 0288. Unique Word Abbreviation.py true
+20:51:07 | INFO | 627 289. Game of Life.py           0289. Game of Life.py          true
+20:51:07 | INFO | 628 29.DivideTwoIntegers.py        0029.DivideTwoIntegers.py      true
+20:51:07 | INFO | 629 290. WordPattern.py            0290. WordPattern.py           true
+20:51:07 | INFO | 630 291. Word Pattern II.py        0291. Word Pattern II.py       true
+20:51:07 | INFO | 631 292. NimGame.py                0292. NimGame.py               true
+20:51:07 | INFO | 632 293. Flip Game.py              0293. Flip Game.py             true
+20:51:07 | INFO | 633 294. Flip Game II.py           0294. Flip Game II.py          true
+20:51:07 | INFO | 634 295. Find Median from Data Stream.py 0295. Find Median from Data Stream.py true
+20:51:07 | INFO | 635 298. Binary Tree Longest Consecutive Sequence.py 0298. Binary Tree Longest Consecutive Sequence.py true
+20:51:07 | INFO | 636 299. Bulls and Cows.py         0299. Bulls and Cows.py        true
+20:51:07 | INFO | 637 3. lengthOfLongestSubstring.py 0003. lengthOfLongestSubstring.py true
+20:51:07 | INFO | 638 300. Longest Increasing Subsequence.py 0300. Longest Increasing Subsequence.py true
+20:51:07 | INFO | 639 302. Smallest Rectangle Enclosing Black Pixels.py 0302. Smallest Rectangle Enclosing Black Pixels.py true
+20:51:07 | INFO | 640 303. Range Sum Query - Immutable.py 0303. Range Sum Query - Immutable.py true
+20:51:07 | INFO | 641 303. RangeSumQueryImmutable.py 0303. RangeSumQueryImmutable.py true
+20:51:07 | INFO | 642 304. Range Sum Query 2D - Immutable.py 0304. Range Sum Query 2D - Immutable.py true
+20:51:07 | INFO | 643 305. Number of Islands II.py   0305. Number of Islands II.py  true
+20:51:07 | INFO | 644 306. Additive Number.py        0306. Additive Number.py       true
+20:51:07 | INFO | 645 307. Range Sum Query - Mutable.py 0307. Range Sum Query - Mutable.py true
+20:51:07 | INFO | 646 308. Range Sum Query 2D - Mutable.py 0308. Range Sum Query 2D - Mutable.py true
+20:51:07 | INFO | 647 309. Best Time to Buy and Sell Stock with Cooldown.py 0309. Best Time to Buy and Sell Stock with Cooldown.py true
+20:51:07 | INFO | 648 31. NextPermutation.py         0031. NextPermutation.py       true
+20:51:07 | INFO | 649 310. Minimum Height Trees.py   0310. Minimum Height Trees.py  true
+20:51:07 | INFO | 650 311. Sparse Matrix Multiplication.py 0311. Sparse Matrix Multiplication.py true
+20:51:07 | INFO | 651 312. Burst Balloons.py         0312. Burst Balloons.py        true
+20:51:07 | INFO | 652 313. Super Ugly Number.py      0313. Super Ugly Number.py     true
+20:51:07 | INFO | 653 314. Binary Tree Vertical Order Traversal.py 0314. Binary Tree Vertical Order Traversal.py true
+20:51:07 | INFO | 654 315. Count of Smaller Numbers After Self.py 0315. Count of Smaller Numbers After Self.py true
+20:51:07 | INFO | 655 316. Remove Duplicate Letters.py 0316. Remove Duplicate Letters.py true
+20:51:07 | INFO | 656 317. Shortest Distance from All Buildings.py 0317. Shortest Distance from All Buildings.py true
+20:51:07 | INFO | 657 318. Maximum Product of Word Lengths.py 0318. Maximum Product of Word Lengths.py true
+20:51:07 | INFO | 658 319. Bulb Switcher.py          0319. Bulb Switcher.py         true
+20:51:07 | INFO | 659 32. Longest Valid Parentheses.py 0032. Longest Valid Parentheses.py true
+20:51:07 | INFO | 660 320. Generalized Abbreviation.py 0320. Generalized Abbreviation.py true
+20:51:07 | INFO | 661 322. Coin Change.py            0322. Coin Change.py           true
+20:51:07 | INFO | 662 323. Number of Connected Components in an Undirected Graph.cpp keep                           false
+20:51:07 | INFO | 663 324. Wiggle Sort II.py         0324. Wiggle Sort II.py        true
+20:51:07 | INFO | 664 325. Maximum Size Subarray Sum Equals k.cpp keep                           false
+20:51:07 | INFO | 665 325. Maximum Size Subarray Sum Equals k.py 0325. Maximum Size Subarray Sum Equals k.py true
+20:51:07 | INFO | 666 326. Power of Three.py         0326. Power of Three.py        true
+20:51:07 | INFO | 667 327. Count of Range Sum.py     0327. Count of Range Sum.py    true
+20:51:07 | INFO | 668 328. Odd Even Linked List.py   0328. Odd Even Linked List.py  true
+20:51:07 | INFO | 669 329. Longest Increasing Path in a Matrix.py 0329. Longest Increasing Path in a Matrix.py true
+20:51:07 | INFO | 670 33. SearchinRotatedSortedArray.py 0033. SearchinRotatedSortedArray.py true
+20:51:07 | INFO | 671 331. Verify Preorder Serialization of a Binary Tree.py 0331. Verify Preorder Serialization of a Binary Tree.py true
+20:51:07 | INFO | 672 332. Reconstruct Itinerary.py  0332. Reconstruct Itinerary.py true
+20:51:07 | INFO | 673 333. Largest BST Subtree.cpp   keep                           false
+20:51:07 | INFO | 674 334. Increasing Triplet Subsequence.py 0334. Increasing Triplet Subsequence.py true
+20:51:07 | INFO | 675 336. Palindrome Pairs.py       0336. Palindrome Pairs.py      true
+20:51:07 | INFO | 676 337. House Robber III.py       0337. House Robber III.py      true
+20:51:07 | INFO | 677 338. Counting Bits.py          0338. Counting Bits.py         true
+20:51:07 | INFO | 678 339. Nested List Weight Sum.cpp keep                           false
+20:51:07 | INFO | 679 34. Find First and Last Position of Element in Sorted Array.py 0034. Find First and Last Position of Element in Sorted Array.py true
+20:51:07 | INFO | 680 340. Longest Substring with At Most K Distinct Characters.py 0340. Longest Substring with At Most K Distinct Characters.py true
+20:51:07 | INFO | 681 341. Flatten Nested List Iterator.py 0341. Flatten Nested List Iterator.py true
+20:51:07 | INFO | 682 342. Power of Four.py          0342. Power of Four.py         true
+20:51:07 | INFO | 683 343. Integer Break.py          0343. Integer Break.py         true
+20:51:07 | INFO | 684 344. Reverse String.py         0344. Reverse String.py        true
+20:51:07 | INFO | 685 345. Reverse Vowels of a String.py 0345. Reverse Vowels of a String.py true
+20:51:07 | INFO | 686 346. Moving Average from Data Stream.py 0346. Moving Average from Data Stream.py true
+20:51:07 | INFO | 687 347. Top K Frequent Elements.py 0347. Top K Frequent Elements.py true
+20:51:07 | INFO | 688 348. Design Tic-Tac-Toe.py     0348. Design Tic-Tac-Toe.py    true
+20:51:07 | INFO | 689 349. Intersection of Two Arrays.py 0349. Intersection of Two Arrays.py true
+20:51:07 | INFO | 690 35. searchInsert.py            0035. searchInsert.py          true
+20:51:07 | INFO | 691 350. Intersection of Two Arrays II.py 0350. Intersection of Two Arrays II.py true
+20:51:07 | INFO | 692 353. Design Snake Game.py      0353. Design Snake Game.py     true
+20:51:07 | INFO | 693 354. Russian Doll Envelopes.py 0354. Russian Doll Envelopes.py true
+20:51:07 | INFO | 694 355. Design Twitter.py         0355. Design Twitter.py        true
+20:51:07 | INFO | 695 356. Line Reflection.cpp       keep                           false
+20:51:07 | INFO | 696 357. Count Numbers with Unique Digits.py 0357. Count Numbers with Unique Digits.py true
+20:51:07 | INFO | 697 358. Rearrange String k Distance Apart.py 0358. Rearrange String k Distance Apart.py true
+20:51:07 | INFO | 698 36. Valid Sudoku.py            0036. Valid Sudoku.py          true
+20:51:07 | INFO | 699 361. Bomb Enemy.py             0361. Bomb Enemy.py            true
+20:51:07 | INFO | 700 365. Water and Jug Problem.py  0365. Water and Jug Problem.py true
+20:51:07 | INFO | 701 366. Find Leaves of Binary Tree.cpp keep                           false
+20:51:07 | INFO | 702 366. Find Leaves of Binary Tree.py 0366. Find Leaves of Binary Tree.py true
+20:51:07 | INFO | 703 367. Valid Perfect Square.py   0367. Valid Perfect Square.py  true
+20:51:07 | INFO | 704 368. Largest Divisible Subset.py 0368. Largest Divisible Subset.py true
+20:51:07 | INFO | 705 37. Sudoku Solver.py           0037. Sudoku Solver.py         true
+20:51:07 | INFO | 706 370. Range Addition.cpp        keep                           false
+20:51:07 | INFO | 707 370. Range Addition.py         0370. Range Addition.py        true
+20:51:07 | INFO | 708 371. Sum of Two Integers.py    0371. Sum of Two Integers.py   true
+20:51:07 | INFO | 709 372. Super Pow.py              0372. Super Pow.py             true
+20:51:07 | INFO | 710 373. Find K Pairs with Smallest Sums.py 0373. Find K Pairs with Smallest Sums.py true
+20:51:07 | INFO | 711 374. Guess Number Higher or Lower.py 0374. Guess Number Higher or Lower.py true
+20:51:07 | INFO | 712 375. Guess Number Higher or Lower II.py 0375. Guess Number Higher or Lower II.py true
+20:51:07 | INFO | 713 376. Wiggle Subsequence.py     0376. Wiggle Subsequence.py    true
+20:51:07 | INFO | 714 377. Combination Sum IV.py     0377. Combination Sum IV.py    true
+20:51:07 | INFO | 715 378. Kth Smallest Element in a Sorted Matrix.py 0378. Kth Smallest Element in a Sorted Matrix.py true
+20:51:07 | INFO | 716 380. Insert Delete GetRandom O(1).py 0380. Insert Delete GetRandom O(1).py true
+20:51:07 | INFO | 717 381. Insert Delete GetRandom O(1) - Duplicates allowed.py 0381. Insert Delete GetRandom O(1) - Duplicates allowed.py true
+20:51:07 | INFO | 718 382. Linked List Random Node.py 0382. Linked List Random Node.py true
+20:51:07 | INFO | 719 383. Ransom Note.py            0383. Ransom Note.py           true
+20:51:07 | INFO | 720 384. Shuffle an Array.py       0384. Shuffle an Array.py      true
+20:51:07 | INFO | 721 385. Mini Parser.py            0385. Mini Parser.py           true
+20:51:07 | INFO | 722 386. Lexicographical Numbers.py 0386. Lexicographical Numbers.py true
+20:51:07 | INFO | 723 387. First Unique Character in a String.py 0387. First Unique Character in a String.py true
+20:51:07 | INFO | 724 388. Longest Absolute File Path.py 0388. Longest Absolute File Path.py true
+20:51:07 | INFO | 725 389. Find the Difference.py    0389. Find the Difference.py   true
+20:51:07 | INFO | 726 39. Combination Sum.py         0039. Combination Sum.py       true
+20:51:07 | INFO | 727 390. Elimination Game.py       0390. Elimination Game.py      true
+20:51:07 | INFO | 728 391. Perfect Rectangle.py      0391. Perfect Rectangle.py     true
+20:51:07 | INFO | 729 392. Is Subsequence.py         0392. Is Subsequence.py        true
+20:51:07 | INFO | 730 393. UTF-8 Validation.py       0393. UTF-8 Validation.py      true
+20:51:07 | INFO | 731 394. Decode String.py          0394. Decode String.py         true
+20:51:07 | INFO | 732 395. Longest Substring with At Least K Repeating Characters.py 0395. Longest Substring with At Least K Repeating Characters.py true
+20:51:07 | INFO | 733 396. Rotate Function.py        0396. Rotate Function.py       true
+20:51:07 | INFO | 734 397. Integer Replacement.py    0397. Integer Replacement.py   true
+20:51:07 | INFO | 735 398. Random Pick Index.py      0398. Random Pick Index.py     true
+20:51:07 | INFO | 736 399. Evaluate Division.py      0399. Evaluate Division.py     true
+20:51:07 | INFO | 737 4.findMedianSortedArrays.py    0004.findMedianSortedArrays.py true
+20:51:07 | INFO | 738 40. Combination Sum II.py      0040. Combination Sum II.py    true
+20:51:07 | INFO | 739 400. Nth Digit.py              0400. Nth Digit.py             true
+20:51:07 | INFO | 740 401. Binary Watch.py           0401. Binary Watch.py          true
+20:51:07 | INFO | 741 402. Remove K Digits.py        0402. Remove K Digits.py       true
+20:51:07 | INFO | 742 404. Sum of Left Leaves.py     0404. Sum of Left Leaves.py    true
+20:51:07 | INFO | 743 405. Convert a Number to Hexadecimal.py 0405. Convert a Number to Hexadecimal.py true
+20:51:07 | INFO | 744 406. Queue Reconstruction by Height.py 0406. Queue Reconstruction by Height.py true
+20:51:07 | INFO | 745 407. Trapping Rain Water II.py 0407. Trapping Rain Water II.py true
+20:51:07 | INFO | 746 409. Longest Palindrome.py     0409. Longest Palindrome.py    true
+20:51:07 | INFO | 747 412. Fizz Buzz.py              0412. Fizz Buzz.py             true
+20:51:07 | INFO | 748 413. Arithmetic Slices.py      0413. Arithmetic Slices.py     true
+20:51:07 | INFO | 749 414. Third Maximum Number.py   0414. Third Maximum Number.py  true
+20:51:07 | INFO | 750 415. Add Strings.py            0415. Add Strings.py           true
+20:51:07 | INFO | 751 416. Partition Equal Subset Sum.py 0416. Partition Equal Subset Sum.py true
+20:51:07 | INFO | 752 417. Pacific Atlantic Water Flow.py 0417. Pacific Atlantic Water Flow.py true
+20:51:07 | INFO | 753 418. Sentence Screen Fitting.py 0418. Sentence Screen Fitting.py true
+20:51:07 | INFO | 754 419. Battleships in a Board.py 0419. Battleships in a Board.py true
+20:51:07 | INFO | 755 42. Trapping Rain Water.py     0042. Trapping Rain Water.py   true
+20:51:07 | INFO | 756 421. Maximum XOR of Two Numbers in an Array.py 0421. Maximum XOR of Two Numbers in an Array.py true
+20:51:07 | INFO | 757 422. Valid Word Square.py      0422. Valid Word Square.py     true
+20:51:07 | INFO | 758 423. Reconstruct Original Digits from English.py 0423. Reconstruct Original Digits from English.py true
+20:51:07 | INFO | 759 424. Longest Repeating Character Replacement.py 0424. Longest Repeating Character Replacement.py true
+20:51:07 | INFO | 760 425. Word Squares.py           0425. Word Squares.py          true
+20:51:07 | INFO | 761 426. Convert Binary Search Tree to Sorted Doubly Linked List.py 0426. Convert Binary Search Tree to Sorted Doubly Linked List.py true
+20:51:07 | INFO | 762 427. Construct Quad Tree.py    0427. Construct Quad Tree.py   true
+20:51:07 | INFO | 763 429. N-ary Tree Level Order Traversal.py 0429. N-ary Tree Level Order Traversal.py true
+20:51:07 | INFO | 764 430. Flatten a Multilevel Doubly Linked List.py 0430. Flatten a Multilevel Doubly Linked List.py true
+20:51:07 | INFO | 765 433. Minimum Genetic Mutation.py 0433. Minimum Genetic Mutation.py true
+20:51:07 | INFO | 766 434. Number of Segments in a String.py 0434. Number of Segments in a String.py true
+20:51:07 | INFO | 767 435. Non-overlapping Intervals.py 0435. Non-overlapping Intervals.py true
+20:51:07 | INFO | 768 436. Find Right Interval.py    0436. Find Right Interval.py   true
+20:51:07 | INFO | 769 437. Path Sum III.py           0437. Path Sum III.py          true
+20:51:07 | INFO | 770 438. Find All Anagrams in a String.py 0438. Find All Anagrams in a String.py true
+20:51:07 | INFO | 771 439. Ternary Expression Parser.py 0439. Ternary Expression Parser.py true
+20:51:07 | INFO | 772 44. Wildcard Matching.py       0044. Wildcard Matching.py     true
+20:51:07 | INFO | 773 441. Arranging Coins.py        0441. Arranging Coins.py       true
+20:51:07 | INFO | 774 442. Find All Duplicates in an Array.py 0442. Find All Duplicates in an Array.py true
+20:51:07 | INFO | 775 443. String Compression.py     0443. String Compression.py    true
+20:51:07 | INFO | 776 444. Sequence Reconstruction.py 0444. Sequence Reconstruction.py true
+20:51:07 | INFO | 777 445. Add Two Numbers II.py     0445. Add Two Numbers II.py    true
+20:51:07 | INFO | 778 446. Arithmetic Slices II - Subsequence.py 0446. Arithmetic Slices II - Subsequence.py true
+20:51:07 | INFO | 779 447. Number of Boomerangs.py   0447. Number of Boomerangs.py  true
+20:51:07 | INFO | 780 448. number_disappear.py       0448. number_disappear.py      true
+20:51:07 | INFO | 781 449. Serialize and Deserialize BST.py 0449. Serialize and Deserialize BST.py true
+20:51:07 | INFO | 782 45. Jump Game II.py            0045. Jump Game II.py          true
+20:51:07 | INFO | 783 450. Delete Node in a BST.py   0450. Delete Node in a BST.py  true
+20:51:07 | INFO | 784 451. Sort Characters By Frequency.py 0451. Sort Characters By Frequency.py true
+20:51:07 | INFO | 785 452. Minimum Number of Arrows to Burst Balloons.py 0452. Minimum Number of Arrows to Burst Balloons.py true
+20:51:07 | INFO | 786 453. Minimum Moves to Equal Array Elements.py 0453. Minimum Moves to Equal Array Elements.py true
+20:51:07 | INFO | 787 454. 4Sum II.py                0454. 4Sum II.py               true
+20:51:07 | INFO | 788 455. Assign Cookies.py         0455. Assign Cookies.py        true
+20:51:07 | INFO | 789 456. 132 Pattern.py            0456. 132 Pattern.py           true
+20:51:07 | INFO | 790 457. Circular Array Loop.py    0457. Circular Array Loop.py   true
+20:51:07 | INFO | 791 458. Poor Pigs.py              0458. Poor Pigs.py             true
+20:51:07 | INFO | 792 459. Repeated Substring Pattern.py 0459. Repeated Substring Pattern.py true
+20:51:07 | INFO | 793 46. Permutations.py            0046. Permutations.py          true
+20:51:07 | INFO | 794 461. Hamming Distance.py       0461. Hamming Distance.py      true
+20:51:07 | INFO | 795 462. Minimum Moves to Equal Array Elements II.py 0462. Minimum Moves to Equal Array Elements II.py true
+20:51:07 | INFO | 796 463. Island Perimeter.py       0463. Island Perimeter.py      true
+20:51:07 | INFO | 797 464. Can I Win.py              0464. Can I Win.py             true
+20:51:07 | INFO | 798 467. Unique Substrings in Wraparound String.py 0467. Unique Substrings in Wraparound String.py true
+20:51:07 | INFO | 799 469. Convex Polygon.cpp        keep                           false
+20:51:07 | INFO | 800 47. Permutations II.py         0047. Permutations II.py       true
+20:51:07 | INFO | 801 470. Implement Rand10() Using Rand7().cpp keep                           false
+20:51:07 | INFO | 802 473. Matchsticks to Square.cpp keep                           false
+20:51:07 | INFO | 803 474. Ones and Zeroes.cpp       keep                           false
+20:51:07 | INFO | 804 475. Heaters.py                0475. Heaters.py               true
+20:51:07 | INFO | 805 476. Number Complement.py      0476. Number Complement.py     true
+20:51:07 | INFO | 806 477. Total Hamming Distance.cpp keep                           false
+20:51:07 | INFO | 807 478. Generate Random Point in a Circle.cpp keep                           false
+20:51:07 | INFO | 808 478. Generate Random Point in a Circle.py 0478. Generate Random Point in a Circle.py true
+20:51:07 | INFO | 809 48. Rotate Image.py            0048. Rotate Image.py          true
+20:51:07 | INFO | 810 480. Sliding Window Median.py  0480. Sliding Window Median.py true
+20:51:07 | INFO | 811 481. Magical String.cpp        keep                           false
+20:51:07 | INFO | 812 482. License Key Formatting.py 0482. License Key Formatting.py true
+20:51:07 | INFO | 813 484. Find Permutation.cpp      keep                           false
+20:51:07 | INFO | 814 484. Find Permutation.py       0484. Find Permutation.py      true
+20:51:07 | INFO | 815 485. Max Consecutive Ones.cpp  keep                           false
+20:51:07 | INFO | 816 485. Max Consecutive Ones.py   0485. Max Consecutive Ones.py  true
+20:51:07 | INFO | 817 486. Predict the Winner.cpp    keep                           false
+20:51:07 | INFO | 818 487. Max Consecutive Ones II.cpp keep                           false
+20:51:07 | INFO | 819 49. Group Anagrams.py          0049. Group Anagrams.py        true
+20:51:07 | INFO | 820 490. The Maze.cpp              keep                           false
+20:51:07 | INFO | 821 491. Increasing Subsequences.cpp keep                           false
+20:51:07 | INFO | 822 492. Construct the Rectangle.cpp keep                           false
+20:51:07 | INFO | 823 493. Reverse Pairs.py          0493. Reverse Pairs.py         true
+20:51:07 | INFO | 824 494. Target Sum.cpp            keep                           false
+20:51:07 | INFO | 825 495. Teemo Attacking.cpp       keep                           false
+20:51:07 | INFO | 826 496. Next Greater Element I.cpp keep                           false
+20:51:07 | INFO | 827 496. Next Greater Element I.py 0496. Next Greater Element I.py true
+20:51:07 | INFO | 828 497. Random Point in Non-overlapping Rectangles.cpp keep                           false
+20:51:07 | INFO | 829 498. Diagonal Traverse.cpp     keep                           false
+20:51:07 | INFO | 830 5. longestPalindrome.py        0005. longestPalindrome.py     true
+20:51:07 | INFO | 831 50. Pow(x, n).py               0050. Pow(x, n).py             true
+20:51:07 | INFO | 832 500. Keyboard Row              keep                           false
+20:51:07 | INFO | 833 501. Find Mode in Binary Search Tree.cpp keep                           false
+20:51:07 | INFO | 834 502. IPO.py                    0502. IPO.py                   true
+20:51:07 | INFO | 835 503. Next Greater Element II.cpp keep                           false
+20:51:07 | INFO | 836 503. Next Greater Element II.py 0503. Next Greater Element II.py true
+20:51:07 | INFO | 837 504. Base 7.cpp                keep                           false
+20:51:07 | INFO | 838 505. The Maze II.cpp           keep                           false
+20:51:07 | INFO | 839 505. The Maze II.py            0505. The Maze II.py           true
+20:51:07 | INFO | 840 506. Relative Ranks.cpp        keep                           false
+20:51:07 | INFO | 841 507. Perfect Number.cpp        keep                           false
+20:51:07 | INFO | 842 508. Most Frequent Subtree Sum.cpp keep                           false
+20:51:07 | INFO | 843 509. Fibonacci Number.cpp      keep                           false
+20:51:07 | INFO | 844 51. N-Queens.py                0051. N-Queens.py              true
+20:51:07 | INFO | 845 513. Find Bottom Left Tree Value.cpp keep                           false
+20:51:07 | INFO | 846 515. Find Largest Value in Each Tree Row.cpp keep                           false
+20:51:07 | INFO | 847 516. Longest Palindromic Subsequence.cpp keep                           false
+20:51:07 | INFO | 848 518. Coin Change 2.cpp         keep                           false
+20:51:07 | INFO | 849 519. Random Flip Matrix.cpp    keep                           false
+20:51:07 | INFO | 850 52. N-Queens II.py             0052. N-Queens II.py           true
+20:51:07 | INFO | 851 520. Detect Capital.cpp        keep                           false
+20:51:07 | INFO | 852 521. Longest Uncommon Subsequence I.cpp keep                           false
+20:51:07 | INFO | 853 522. Longest Uncommon Subsequence II.py 0522. Longest Uncommon Subsequence II.py true
+20:51:07 | INFO | 854 523. Continuous Subarray Sum.py 0523. Continuous Subarray Sum.py true
+20:51:07 | INFO | 855 524. Longest Word in Dictionary through Deleting.py 0524. Longest Word in Dictionary through Deleting.py true
+20:51:07 | INFO | 856 526. Beautiful Arrangement.py  0526. Beautiful Arrangement.py true
+20:51:07 | INFO | 857 53. maxSubArray.py             0053. maxSubArray.py           true
+20:51:07 | INFO | 858 530. Minimum Absolute Difference in BST.cpp keep                           false
+20:51:07 | INFO | 859 531. Lonely Pixel I.py         0531. Lonely Pixel I.py        true
+20:51:07 | INFO | 860 532. K-diff Pairs in an Array.cpp keep                           false
+20:51:07 | INFO | 861 537. Complex Number Multiplication.py 0537. Complex Number Multiplication.py true
+20:51:07 | INFO | 862 538. Convert BST to Greater Tree.cpp keep                           false
+20:51:07 | INFO | 863 54. Spiral Matrix.py           0054. Spiral Matrix.py         true
+20:51:07 | INFO | 864 540. Single Element in a Sorted Array.py 0540. Single Element in a Sorted Array.py true
+20:51:07 | INFO | 865 541. Reverse String II.cpp     keep                           false
+20:51:07 | INFO | 866 542. 01 Matrix.py              0542. 01 Matrix.py             true
+20:51:07 | INFO | 867 543. Diameter of Binary Tree.cpp keep                           false
+20:51:07 | INFO | 868 547. Friend Circles.py         0547. Friend Circles.py        true
+20:51:07 | INFO | 869 549. Binary Tree Longest Consecutive Sequence II.py 0549. Binary Tree Longest Consecutive Sequence II.py true
+20:51:07 | INFO | 870 55. Jump Game.py               0055. Jump Game.py             true
+20:51:07 | INFO | 871 551. Student Attendance Record I.cpp keep                           false
+20:51:07 | INFO | 872 554. Brick Wall.py             0554. Brick Wall.py            true
+20:51:07 | INFO | 873 556. Next Greater Element III.py 0556. Next Greater Element III.py true
+20:51:07 | INFO | 874 559. Maximum Depth of N-ary Tree.cpp keep                           false
+20:51:07 | INFO | 875 56. Merge Intervals.py         0056. Merge Intervals.py       true
+20:51:07 | INFO | 876 560. Subarray Sum Equals K.cpp keep                           false
+20:51:07 | INFO | 877 560. Subarray Sum Equals K.py  0560. Subarray Sum Equals K.py true
+20:51:07 | INFO | 878 561. Array Partition I.cpp     keep                           false
+20:51:07 | INFO | 879 563. Binary Tree Tilt.cpp      keep                           false
+20:51:07 | INFO | 880 565. Array Nesting.py          0565. Array Nesting.py         true
+20:51:07 | INFO | 881 566. Reshape the Matrix.cpp    keep                           false
+20:51:07 | INFO | 882 566. Reshape the Matrix.py     0566. Reshape the Matrix.py    true
+20:51:07 | INFO | 883 567. Permutation in String.py  0567. Permutation in String.py true
+20:51:07 | INFO | 884 573. Squirrel Simulation.py    0573. Squirrel Simulation.py   true
+20:51:07 | INFO | 885 575. Distribute Candies.cpp    keep                           false
+20:51:07 | INFO | 886 576. Out of Boundary Paths.py  0576. Out of Boundary Paths.py true
+20:51:07 | INFO | 887 58. lengthOfLastWord.py        0058. lengthOfLastWord.py      true
+20:51:07 | INFO | 888 581. Shortest Unsorted Continuous Subarray.cpp keep                           false
+20:51:07 | INFO | 889 583. Delete Operation for Two Strings.py 0583. Delete Operation for Two Strings.py true
+20:51:07 | INFO | 890 589. N-ary Tree Preorder Traversal.cpp keep                           false
+20:51:07 | INFO | 891 589. N-ary Tree Preorder Traversal.py 0589. N-ary Tree Preorder Traversal.py true
+20:51:07 | INFO | 892 590. N-ary Tree Postorder Traversal.cpp keep                           false
+20:51:07 | INFO | 893 594. Longest Harmonious Subsequence.cpp keep                           false
+20:51:07 | INFO | 894 598. Range Addition II.cpp     keep                           false
+20:51:07 | INFO | 895 598. Range Addition II.py      0598. Range Addition II.py     true
+20:51:07 | INFO | 896 599. Minimum Index Sum of Two Lists.cpp keep                           false
+20:51:07 | INFO | 897 6. ZigZagConversion.py         0006. ZigZagConversion.py      true
+20:51:07 | INFO | 898 60. Permutation Sequence.py    0060. Permutation Sequence.py  true
+20:51:07 | INFO | 899 605. Can Place Flowers.cpp     keep                           false
+20:51:07 | INFO | 900 609. Find Duplicate File in System.py 0609. Find Duplicate File in System.py true
+20:51:07 | INFO | 901 61. Rotate List.py             0061. Rotate List.py           true
+20:51:07 | INFO | 902 611. Valid Triangle Number.py  0611. Valid Triangle Number.py true
+20:51:07 | INFO | 903 617. Merge Two Binary Trees.cpp keep                           false
+20:51:07 | INFO | 904 62. Unique Paths.py            0062. Unique Paths.py          true
+20:51:07 | INFO | 905 621. Task Scheduler.py         0621. Task Scheduler.py        true
+20:51:07 | INFO | 906 624. Maximum Distance in Arrays.cpp keep                           false
+20:51:07 | INFO | 907 628. Maximum Product of Three Numbers.cpp keep                           false
+20:51:07 | INFO | 908 63. Unique Paths II.py         0063. Unique Paths II.py       true
+20:51:07 | INFO | 909 630. Course Schedule III.py    0630. Course Schedule III.py   true
+20:51:07 | INFO | 910 633. Sum of Square Numbers.cpp keep                           false
+20:51:07 | INFO | 911 633. Sum of Square Numbers.py  0633. Sum of Square Numbers.py true
+20:51:07 | INFO | 912 637. Average of Levels in Binary Tree.cpp keep                           false
+20:51:07 | INFO | 913 638. Shopping Offers.py        0638. Shopping Offers.py       true
+20:51:07 | INFO | 914 64. Minimum Path Sum.py        0064. Minimum Path Sum.py      true
+20:51:07 | INFO | 915 642. Design Search Autocomplete System.py 0642. Design Search Autocomplete System.py true
+20:51:07 | INFO | 916 643. Maximum Average Subarray I.cpp keep                           false
+20:51:07 | INFO | 917 644. Maximum Average Subarray II.py 0644. Maximum Average Subarray II.py true
+20:51:07 | INFO | 918 647. Palindromic Substrings.py 0647. Palindromic Substrings.py true
+20:51:07 | INFO | 919 648. Replace Words.py          0648. Replace Words.py         true
+20:51:07 | INFO | 920 65. Valid Number.py            0065. Valid Number.py          true
+20:51:07 | INFO | 921 650. 2 Keys Keyboard.py        0650. 2 Keys Keyboard.py       true
+20:51:07 | INFO | 922 651. 4 Keys Keyboard.py        0651. 4 Keys Keyboard.py       true
+20:51:07 | INFO | 923 653. Two Sum IV - Input is a BST.cpp keep                           false
+20:51:07 | INFO | 924 653. Two Sum IV - Input is a BST.py 0653. Two Sum IV - Input is a BST.py true
+20:51:07 | INFO | 925 654. Maximum Binary Tree.py    0654. Maximum Binary Tree.py   true
+20:51:07 | INFO | 926 657. Robot Return to Origin.cpp keep                           false
+20:51:07 | INFO | 927 66. plusOne.py                 0066. plusOne.py               true
+20:51:07 | INFO | 928 661. Image Smoother.cpp        keep                           false
+20:51:07 | INFO | 929 663. Equal Tree Partition.py   0663. Equal Tree Partition.py  true
+20:51:07 | INFO | 930 665. Non-decreasing Array.cpp  keep                           false
+20:51:07 | INFO | 931 665. Non-decreasing Array.py   0665. Non-decreasing Array.py  true
+20:51:07 | INFO | 932 667. Beautiful Arrangement II.py 0667. Beautiful Arrangement II.py true
+20:51:07 | INFO | 933 668. Kth Smallest Number in Multiplication Table.py 0668. Kth Smallest Number in Multiplication Table.py true
+20:51:07 | INFO | 934 669. Trim a Binary Search Tree.cpp keep                           false
+20:51:07 | INFO | 935 669. Trim a Binary Search Tree.py 0669. Trim a Binary Search Tree.py true
+20:51:07 | INFO | 936 67.addBinary.py                0067.addBinary.py              true
+20:51:07 | INFO | 937 671. Second Minimum Node In a Binary Tree.cpp keep                           false
+20:51:07 | INFO | 938 674. Longest Continuous Increasing Subsequence.cpp keep                           false
+20:51:07 | INFO | 939 676. Implement Magic Dictionary.py 0676. Implement Magic Dictionary.py true
+20:51:07 | INFO | 940 677. Map Sum Pairs.py          0677. Map Sum Pairs.py         true
+20:51:07 | INFO | 941 680. Valid Palindrome II.py    0680. Valid Palindrome II.py   true
+20:51:07 | INFO | 942 684. Redundant Connection.py   0684. Redundant Connection.py  true
+20:51:07 | INFO | 943 685. Redundant Connection II.py 0685. Redundant Connection II.py true
+20:51:07 | INFO | 944 69. mySqrt.py                  0069. mySqrt.py                true
+20:51:07 | INFO | 945 691. Stickers to Spell Word.py 0691. Stickers to Spell Word.py true
+20:51:07 | INFO | 946 692. Top K Frequent Words.py   0692. Top K Frequent Words.py  true
+20:51:07 | INFO | 947 695. Max Area of Island.py     0695. Max Area of Island.py    true
+20:51:07 | INFO | 948 696. Count Binary Substrings.py 0696. Count Binary Substrings.py true
+20:51:07 | INFO | 949 696.CountBinSubstr.py          0696.CountBinSubstr.py         true
+20:51:07 | INFO | 950 698. Partition to K Equal Sum Subsets.py 0698. Partition to K Equal Sum Subsets.py true
+20:51:07 | INFO | 951 699. Falling Squares.py        0699. Falling Squares.py       true
+20:51:07 | INFO | 952 7. reverse.py                  0007. reverse.py               true
+20:51:07 | INFO | 953 70.climbStairs.py              0070.climbStairs.py            true
+20:51:07 | INFO | 954 701. Insert into a Binary Search Tree.py 0701. Insert into a Binary Search Tree.py true
+20:51:07 | INFO | 955 702. Search in a Sorted Array of Unknown Size.py 0702. Search in a Sorted Array of Unknown Size.py true
+20:51:07 | INFO | 956 703. Kth Largest Element in a Stream.cpp keep                           false
+20:51:07 | INFO | 957 704. Binary Search.cpp         keep                           false
+20:51:07 | INFO | 958 706. Design HashMap.py         0706. Design HashMap.py        true
+20:51:07 | INFO | 959 709. To Lower Case.cpp         keep                           false
+20:51:07 | INFO | 960 709. To Lower Case.py          0709. To Lower Case.py         true
+20:51:07 | INFO | 961 71. Simplify Path.py           0071. Simplify Path.py         true
+20:51:07 | INFO | 962 713. Subarray Product Less Than K.py 0713. Subarray Product Less Than K.py true
+20:51:07 | INFO | 963 714. Best Time to Buy and Sell Stock with Transaction Fee.py 0714. Best Time to Buy and Sell Stock with Transaction Fee.py true
+20:51:07 | INFO | 964 718. Maximum Length of Repeated Subarray.py 0718. Maximum Length of Repeated Subarray.py true
+20:51:07 | INFO | 965 72. Edit Distance.py           0072. Edit Distance.py         true
+20:51:07 | INFO | 966 721. Accounts Merge.py         0721. Accounts Merge.py        true
+20:51:07 | INFO | 967 724. Find Pivot Index.cpp      keep                           false
+20:51:07 | INFO | 968 728. Self Dividing Numbers.cpp keep                           false
+20:51:07 | INFO | 969 729. My Calendar I.py          0729. My Calendar I.py         true
+20:51:07 | INFO | 970 73. Set Matrix Zeroes.py       0073. Set Matrix Zeroes.py     true
+20:51:07 | INFO | 971 734. Sentence Similarity.cpp   keep                           false
+20:51:07 | INFO | 972 737. Sentence Similarity II.py 0737. Sentence Similarity II.py true
+20:51:07 | INFO | 973 738. Monotone Increasing Digits.py 0738. Monotone Increasing Digits.py true
+20:51:07 | INFO | 974 739. Daily Temperatures.py     0739. Daily Temperatures.py    true
+20:51:07 | INFO | 975 74. Search a 2D Matrix.py      0074. Search a 2D Matrix.py    true
+20:51:07 | INFO | 976 743. Network Delay Time.py     0743. Network Delay Time.py    true
+20:51:07 | INFO | 977 744. Find Smallest Letter Greater Than Target.cpp keep                           false
+20:51:07 | INFO | 978 745. Prefix and Suffix Search.py 0745. Prefix and Suffix Search.py true
+20:51:07 | INFO | 979 746. Min Cost Climbing Stairs.cpp keep                           false
+20:51:07 | INFO | 980 746. Min Cost Climbing Stairs.py 0746. Min Cost Climbing Stairs.py true
+20:51:07 | INFO | 981 75. Sort Colors.py             0075. Sort Colors.py           true
+20:51:07 | INFO | 982 752. Open the Lock.py          0752. Open the Lock.py         true
+20:51:07 | INFO | 983 759. Employee Free Time.py     0759. Employee Free Time.py    true
+20:51:07 | INFO | 984 76. Minimum Window Substring.py 0076. Minimum Window Substring.py true
+20:51:07 | INFO | 985 763. Partition Labels.py       0763. Partition Labels.py      true
+20:51:07 | INFO | 986 764. Largest Plus Sign.py      0764. Largest Plus Sign.py     true
+20:51:07 | INFO | 987 765. Couples Holding Hands.py  0765. Couples Holding Hands.py true
+20:51:07 | INFO | 988 767. Reorganize String.py      0767. Reorganize String.py     true
+20:51:07 | INFO | 989 77. Combinations.py            0077. Combinations.py          true
+20:51:07 | INFO | 990 771. Jewels and Stones.cpp     keep                           false
+20:51:07 | INFO | 991 771. Jewels_and_Stones.py      0771. Jewels_and_Stones.py     true
+20:51:07 | INFO | 992 774. Minimize Max Distance to Gas Station.py 0774. Minimize Max Distance to Gas Station.py true
+20:51:07 | INFO | 993 778. Swim in Rising Water.py   0778. Swim in Rising Water.py  true
+20:51:07 | INFO | 994 78. Subsets.py                 0078. Subsets.py               true
+20:51:07 | INFO | 995 782. Transform to Chessboard.py 0782. Transform to Chessboard.py true
+20:51:07 | INFO | 996 783. Minimum Distance Between BST Nodes.cpp keep                           false
+20:51:07 | INFO | 997 784. Letter Case Permutation.py 0784. Letter Case Permutation.py true
+20:51:07 | INFO | 998 785. Is Graph Bipartite.py     0785. Is Graph Bipartite.py    true
+20:51:07 | INFO | 999 787. Cheapest Flights Within K Stops.py 0787. Cheapest Flights Within K Stops.py true
+20:51:07 | INFO | 1000 788. rotate_digits.py          0788. rotate_digits.py         true
+20:51:07 | INFO | 1001 79. Word Search.py             0079. Word Search.py           true
+20:51:07 | INFO | 1002 791. Custom Sort String.py     0791. Custom Sort String.py    true
+20:51:07 | INFO | 1003 792. Number of Matching Subsequences.py 0792. Number of Matching Subsequences.py true
+20:51:07 | INFO | 1004 795. Number of Subarrays with Bounded Maximum.py 0795. Number of Subarrays with Bounded Maximum.py true
+20:51:07 | INFO | 1005 8. StringtoInteger(atoi).py    0008. StringtoInteger(atoi).py true
+20:51:07 | INFO | 1006 80. Remove Duplicates from Sorted Array II.py 0080. Remove Duplicates from Sorted Array II.py true
+20:51:07 | INFO | 1007 802. Find Eventual Safe States.py 0802. Find Eventual Safe States.py true
+20:51:07 | INFO | 1008 803. Bricks Falling When Hit.py 0803. Bricks Falling When Hit.py true
+20:51:07 | INFO | 1009 804. Unique_Morse_Code_Words.py 0804. Unique_Morse_Code_Words.py true
+20:51:07 | INFO | 1010 81. Search in Rotated Sorted Array II.py 0081. Search in Rotated Sorted Array II.py true
+20:51:07 | INFO | 1011 813. Largest Sum of Averages.py 0813. Largest Sum of Averages.py true
+20:51:07 | INFO | 1012 816. Ambiguous Coordinates.py  0816. Ambiguous Coordinates.py true
+20:51:07 | INFO | 1013 82. Remove Duplicates from Sorted List II.py 0082. Remove Duplicates from Sorted List II.py true
+20:51:07 | INFO | 1014 820. Short Encoding of Words.py 0820. Short Encoding of Words.py true
+20:51:07 | INFO | 1015 823. Binary Trees With Factors.py 0823. Binary Trees With Factors.py true
+20:51:07 | INFO | 1016 826. Most Profit Assigning Work.py 0826. Most Profit Assigning Work.py true
+20:51:07 | INFO | 1017 83.deleteDuplicates.py         0083.deleteDuplicates.py       true
+20:51:07 | INFO | 1018 838. Push Dominoes.py          0838. Push Dominoes.py         true
+20:51:07 | INFO | 1019 839. Similar String Groups.py  0839. Similar String Groups.py true
+20:51:07 | INFO | 1020 84. Largest Rectangle in Histogram.py 0084. Largest Rectangle in Histogram.py true
+20:51:07 | INFO | 1021 842. Split Array into Fibonacci Sequence.py 0842. Split Array into Fibonacci Sequence.py true
+20:51:07 | INFO | 1022 843. Guess the Word.py         0843. Guess the Word.py        true
+20:51:07 | INFO | 1023 845. Longest Mountain in Array.py 0845. Longest Mountain in Array.py true
+20:51:07 | INFO | 1024 848. Shifting Letters.py       0848. Shifting Letters.py      true
+20:51:07 | INFO | 1025 85. Maximal Rectangle.py       0085. Maximal Rectangle.py     true
+20:51:07 | INFO | 1026 850. Rectangle Area II.py      0850. Rectangle Area II.py     true
+20:51:07 | INFO | 1027 851. Loud and Rich.py          0851. Loud and Rich.py         true
+20:51:07 | INFO | 1028 856. Score of Parentheses.py   0856. Score of Parentheses.py  true
+20:51:07 | INFO | 1029 857. Minimum Cost to Hire K Workers.py 0857. Minimum Cost to Hire K Workers.py true
+20:51:07 | INFO | 1030 86. Partition List.py          0086. Partition List.py        true
+20:51:07 | INFO | 1031 862. Shortest Subarray with Sum at Least K.py 0862. Shortest Subarray with Sum at Least K.py true
+20:51:07 | INFO | 1032 863. All Nodes Distance K in Binary Tree.py 0863. All Nodes Distance K in Binary Tree.py true
+20:51:07 | INFO | 1033 864. Shortest Path to Get All Keys.py 0864. Shortest Path to Get All Keys.py true
+20:51:07 | INFO | 1034 865. Smallest Subtree with all the Deepest Nodes.py 0865. Smallest Subtree with all the Deepest Nodes.py true
+20:51:07 | INFO | 1035 87. Scramble String.py         0087. Scramble String.py       true
+20:51:07 | INFO | 1036 875. Koko Eating Bananas.py    0875. Koko Eating Bananas.py   true
+20:51:07 | INFO | 1037 876. Middle of the Linked List.py 0876. Middle of the Linked List.py true
+20:51:07 | INFO | 1038 877. Stone Game.py             0877. Stone Game.py            true
+20:51:07 | INFO | 1039 88. merge.py                   0088. merge.py                 true
+20:51:07 | INFO | 1040 881. Boats to Save People.py   0881. Boats to Save People.py  true
+20:51:07 | INFO | 1041 886. Possible Bipartition.py   0886. Possible Bipartition.py  true
+20:51:07 | INFO | 1042 89. Gray Code.py               0089. Gray Code.py             true
+20:51:07 | INFO | 1043 890. Find and Replace Pattern.py 0890. Find and Replace Pattern.py true
+20:51:07 | INFO | 1044 9. isPalindrome.py             0009. isPalindrome.py          true
+20:51:07 | INFO | 1045 90. Subsets II.py              0090. Subsets II.py            true
+20:51:07 | INFO | 1046 906. Super Palindromes.py      0906. Super Palindromes.py     true
+20:51:07 | INFO | 1047 907. Sum of Subarray Minimums.py 0907. Sum of Subarray Minimums.py true
+20:51:07 | INFO | 1048 909. Snakes and Ladders.py     0909. Snakes and Ladders.py    true
+20:51:07 | INFO | 1049 91. Decode Ways.py             0091. Decode Ways.py           true
+20:51:07 | INFO | 1050 912. Sort an Array.py          0912. Sort an Array.py         true
+20:51:07 | INFO | 1051 913. Cat and Mouse.py          0913. Cat and Mouse.py         true
+20:51:07 | INFO | 1052 916. Word Subsets.py           0916. Word Subsets.py          true
+20:51:07 | INFO | 1053 917. Reverse Only Letters.py   0917. Reverse Only Letters.py  true
+20:51:07 | INFO | 1054 92. Reverse Linked List II.py  0092. Reverse Linked List II.py true
+20:51:07 | INFO | 1055 922. Sort Array By Parity II.py 0922. Sort Array By Parity II.py true
+20:51:07 | INFO | 1056 923. 3Sum With Multiplicity.py 0923. 3Sum With Multiplicity.py true
+20:51:07 | INFO | 1057 924. Minimize Malware Spread.py 0924. Minimize Malware Spread.py true
+20:51:07 | INFO | 1058 928. Minimize Malware Spread II.py 0928. Minimize Malware Spread II.py true
+20:51:07 | INFO | 1059 929. Unique Email Addresses.py 0929. Unique Email Addresses.py true
+20:51:07 | INFO | 1060 93. Restore IP Addresses.py    0093. Restore IP Addresses.py  true
+20:51:07 | INFO | 1061 930. Binary Subarrays With Sum.py 0930. Binary Subarrays With Sum.py true
+20:51:07 | INFO | 1062 934. Shortest Bridge.py        0934. Shortest Bridge.py       true
+20:51:07 | INFO | 1063 936. Stamping The Sequence.py  0936. Stamping The Sequence.py true
+20:51:07 | INFO | 1064 94. Binary Tree Inorder Traversal.py 0094. Binary Tree Inorder Traversal.py true
+20:51:07 | INFO | 1065 947. Most Stones Removed with Same Row or Column.py 0947. Most Stones Removed with Same Row or Column.py true
+20:51:07 | INFO | 1066 95. Unique Binary Search Trees II.py 0095. Unique Binary Search Trees II.py true
+20:51:07 | INFO | 1067 952. Largest Component Size by Common Factor.py 0952. Largest Component Size by Common Factor.py true
+20:51:07 | INFO | 1068 959. Regions Cut By Slashes.py 0959. Regions Cut By Slashes.py true
+20:51:07 | INFO | 1069 96. Unique Binary Search Trees.py 0096. Unique Binary Search Trees.py true
+20:51:07 | INFO | 1070 962. Maximum Width Ramp.py     0962. Maximum Width Ramp.py    true
+20:51:07 | INFO | 1071 966. Vowel Spellchecker.py     0966. Vowel Spellchecker.py    true
+20:51:07 | INFO | 1072 967. Numbers With Same Consecutive Differences.py 0967. Numbers With Same Consecutive Differences.py true
+20:51:07 | INFO | 1073 968. Binary Tree Cameras.py    0968. Binary Tree Cameras.py   true
+20:51:07 | INFO | 1074 969. Pancake Sorting.py        0969. Pancake Sorting.py       true
+20:51:07 | INFO | 1075 97. Interleaving String.py     0097. Interleaving String.py   true
+20:51:07 | INFO | 1076 970. Powerful Integers.py      0970. Powerful Integers.py     true
+20:51:07 | INFO | 1077 971. Flip Binary Tree To Match Preorder Traversal.py 0971. Flip Binary Tree To Match Preorder Traversal.py true
+20:51:07 | INFO | 1078 973. K Closest Points to Origin.py 0973. K Closest Points to Origin.py true
+20:51:07 | INFO | 1079 978. Longest Turbulent Subarray.py 0978. Longest Turbulent Subarray.py true
+20:51:07 | INFO | 1080 979. Distribute Coins in Binary Tree.py 0979. Distribute Coins in Binary Tree.py true
+20:51:07 | INFO | 1081 98. Validate Binary Search Tree.py 0098. Validate Binary Search Tree.py true
+20:51:07 | INFO | 1082 980. Unique Paths III.py       0980. Unique Paths III.py      true
+20:51:07 | INFO | 1083 981. Time Based Key-Value Store.py 0981. Time Based Key-Value Store.py true
+20:51:07 | INFO | 1084 986. Interval List Intersections.py 0986. Interval List Intersections.py true
+20:51:07 | INFO | 1085 988. Smallest String Starting From Leaf.py 0988. Smallest String Starting From Leaf.py true
+20:51:07 | INFO | 1086 990. Satisfiability of Equality Equations.py 0990. Satisfiability of Equality Equations.py true
+20:51:07 | INFO | 1087 992. Subarrays with K Different Integers.py 0992. Subarrays with K Different Integers.py true
+20:51:07 | INFO | 1088 993. Cousins in Binary Tree.py 0993. Cousins in Binary Tree.py true
+20:51:07 | INFO | 1089 994. Rotting Oranges.py        0994. Rotting Oranges.py       true
+20:51:07 | INFO | 1090 996. Number of Squareful Arrays.py 0996. Number of Squareful Arrays.py true
+20:51:07 | INFO | 1091 C++                            keep                           false
+20:51:07 | INFO | 1092 Java                           keep                           false
+20:51:07 | INFO | 1093 README.md                      keep                           false
+20:51:07 | INFO | 1094 test.py                        keep                           false
