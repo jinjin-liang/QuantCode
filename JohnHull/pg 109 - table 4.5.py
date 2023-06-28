@@ -20,14 +20,12 @@ from scipy import optimize
 # print(sol.x)
 
 ois_data = [(1, 1.8), (3, 2.0), (6, 2.2), (12, 2.5), (24, 3.0), (60, 4.0)]
-
 ois_zero = {}
 for i, (term, coupon) in enumerate(ois_data):
     if term <= 12:
         zero = np.log( 1+coupon/100*term/12 )*12/term
         ois_zero[term] = zero
     else:
-        print(i, term, coupon)
         t0 = ois_data[i-1][0]
         r0 = ois_zero[t0]
         old_dates = list( range(3, t0+1, 3) )
