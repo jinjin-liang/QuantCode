@@ -5,19 +5,11 @@ Created on Sun Jun 25 23:33:50 2023
 @author: Jinjin Liang
 
 bootstrap OIS zero rate using OIS rate
+
+This code is the solution code to Table 4.5 of pg 109
 """
 import numpy as np
 from scipy import optimize
-
-# def fun(x):
-#     coupon = 3/4
-#     v = coupon * np.exp(-0.01995 * 0.25) + coupon * np.exp(-0.02188*0.5)+coupon*np.exp(-0.0232865*0.75)+coupon*np.exp(-0.024693*1)\
-#         +coupon*np.exp(-(0.024693 + (x-0.024693)*0.25) * 1.25) +coupon*np.exp(-(0.024693 + (x-0.024693)*0.5) * 1.5) + coupon*np.exp(-(0.024693 + (x-0.024693)*0.75) * 1.75)\
-#             + (100+coupon)*np.exp(-x * 2) - 100
-#     return v
-
-# sol = optimize.root(fun, 0.02, method='hybr')
-# print(sol.x)
 
 ois_data = [(1, 1.8), (3, 2.0), (6, 2.2), (12, 2.5), (24, 3.0), (60, 4.0)]
 ois_zero = {}
@@ -35,6 +27,7 @@ for i, (term, coupon) in enumerate(ois_data):
             v = -100 + 100*np.exp(-r*term/12)
             for d in old_dates:
                 if d not in ois_zero:
+                    # special handling on 9m
                     ois_zero[d] = 0.5 * (ois_zero[d+3]+ois_zero[d-3])
                 v += c * np.exp(-ois_zero[d] * d/12)
             for d in new_dates:
