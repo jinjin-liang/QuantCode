@@ -96,10 +96,10 @@ def implied_volatility(right, s, k, t, rfr, price, div=0):
 
 if __name__ == "__main__":
     right = 'C'
-    s = 8572
-    k =  8700
-    t = 31
-    rfr = 0
-    div = 0
-    price = 616.05
+    s = 0.6
+    k =  0.59
+    t = 365
+    rfr = 0.05
+    div = 0.1
+    price = 0.0236
     print("implied vol: ", implied_volatility(right, s, k, t, rfr, price, div) )
